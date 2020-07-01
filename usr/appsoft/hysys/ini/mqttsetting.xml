@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+	<MqttServer>192.168.0.240</MqttServer>
+	<MqttPort>7752</MqttPort>
+	<MqttUser>hyasdu</MqttUser>
+	<MqttPassword>hyzn@123</MqttPassword>
+</node>

@@ -1,0 +1,280 @@
+00238
+00001 [2018-08-16 15:28:27:459] SYSTEM MESSAGE  >>init protocol tab error
+00002 [2018-08-16 15:28:27:462] SYSTEM MESSAGE  >>init channel tab error
+00003 [2018-08-16 15:28:27:464] SYSTEM MESSAGE  >>init terminal tab error
+00004 [2018-08-16 15:28:27:466] SYSTEM MESSAGE  >>init ccmyc tab error
+00005 [2018-08-16 15:28:27:469] SYSTEM MESSAGE  >>init ccmym tab error
+00006 [2018-08-16 15:28:27:471] SYSTEM MESSAGE  >>init ccmyx tab error
+00007 [2018-08-16 15:28:27:473] SYSTEM MESSAGE  >>init ccmyk tab error
+00008 [2018-08-16 15:28:27:475] SYSTEM MESSAGE  >>init ccmzfyc tab error
+00009 [2018-08-16 15:28:27:477] SYSTEM MESSAGE  >>init ccmzfyx tab error
+00010 [2018-08-16 15:28:27:479] SYSTEM MESSAGE  >>init ccmzfyk tab error
+00011 [2018-08-16 15:28:27:481] SYSTEM MESSAGE  >>init ccmzfym tab error
+00012 [2018-08-16 15:28:27:483] SYSTEM MESSAGE  >>cComMgrThread start
+00013 [2018-08-16 15:28:27:485] SYSTEM MESSAGE  >>cComProcThread start
+00014 [2018-08-16 15:28:27:487] SYSTEM MESSAGE  >>cDataReturnThread start
+00015 [2018-08-16 15:28:27:489] SYSTEM MESSAGE  >>CTimerWorkThread start
+00016 [2018-08-16 15:28:27:491] SYSTEM MESSAGE  >>cSaveFileThread start
+00017 [2018-08-16 15:28:27:493] SYSTEM MESSAGE  >>cTransFileThread start
+00018 [2018-08-16 15:28:27:607] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00019 [2018-08-16 15:28:27:609] SYSTEM MESSAGE  >>CMQTTPubProcThread  ID1898968144
+00020 [2018-08-16 15:28:27:611] SYSTEM MESSAGE  >>CMQTTSubProcThread  ID1890579536
+00021 [2018-08-16 15:28:27:615] SYSTEM MESSAGE  >>CYKCmdProcThread  ID1907356752
+00022 [2018-08-16 15:28:27:618] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.144
+00023 [2018-08-16 15:28:27:622] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.144
+00024 [2018-08-16 15:28:50:402] SYSTEM MESSAGE  >>GetFileInfo, szPathFileName:/usr/appsoft/hysys/ini/mqttcfg.xml
+00025 [2018-08-16 15:28:50:411] SYSTEM MESSAGE  >>get file failed 222222
+00026 [2018-08-16 15:28:50:521] SYSTEM MESSAGE  >>GetFileInfo, szPathFileName:/usr/appsoft/hysys/ini/mqttcfg.xml
+00027 [2018-08-16 15:29:00:486] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00028 [2018-08-16 15:30:00:481] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00029 [2018-08-16 15:30:00:486] SYSTEM MESSAGE  >>recv EVENTType = 8!v
+00030 [2018-08-16 15:30:00:489] SYSTEM MESSAGE  >>recv EVENTType = 9!v
+00031 [2018-08-16 15:30:00:495] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00032 [2018-08-16 15:30:00:500] SYSTEM MESSAGE  >>recv EVENTType = 10!n_EVENT!
+00033 [2018-08-16 15:30:00:505] SYSTEM MESSAGE  >>recv EVENTType = 11!n_EVENT!
+00034 [2018-08-16 15:30:00:511] SYSTEM MESSAGE  >>recv EVENTType = 13!n_EVENT!
+00035 [2018-08-16 15:30:00:516] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 30  ==<</s#2vLV9v/s/s/s/s/s/s
+00036 [2018-08-16 15:30:00:519] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00037 [2018-08-16 15:30:13:872] SYSTEM MESSAGE  >>init protocol tab error
+00038 [2018-08-16 15:30:13:873] SYSTEM MESSAGE  >>init channel tab error
+00039 [2018-08-16 15:30:13:874] SYSTEM MESSAGE  >>init terminal tab error
+00040 [2018-08-16 15:30:13:875] SYSTEM MESSAGE  >>init ccmyc tab error
+00041 [2018-08-16 15:30:13:876] SYSTEM MESSAGE  >>init ccmym tab error
+00042 [2018-08-16 15:30:13:883] SYSTEM MESSAGE  >>init ccmyx tab error
+00043 [2018-08-16 15:30:13:885] SYSTEM MESSAGE  >>init ccmyk tab error
+00044 [2018-08-16 15:30:13:886] SYSTEM MESSAGE  >>init ccmzfyc tab error
+00045 [2018-08-16 15:30:13:888] SYSTEM MESSAGE  >>init ccmzfyx tab error
+00046 [2018-08-16 15:30:13:890] SYSTEM MESSAGE  >>init ccmzfyk tab error
+00047 [2018-08-16 15:30:13:892] SYSTEM MESSAGE  >>init ccmzfym tab error
+00048 [2018-08-16 15:30:13:894] SYSTEM MESSAGE  >>cComMgrThread start
+00049 [2018-08-16 15:30:13:895] SYSTEM MESSAGE  >>cComProcThread start
+00050 [2018-08-16 15:30:13:897] SYSTEM MESSAGE  >>cDataReturnThread start
+00051 [2018-08-16 15:30:13:899] SYSTEM MESSAGE  >>CTimerWorkThread start
+00052 [2018-08-16 15:30:13:901] SYSTEM MESSAGE  >>cSaveFileThread start
+00053 [2018-08-16 15:30:13:903] SYSTEM MESSAGE  >>cTransFileThread start
+00054 [2018-08-16 15:30:14:006] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00055 [2018-08-16 15:30:14:007] SYSTEM MESSAGE  >>recv EVENTType = 8!v
+00056 [2018-08-16 15:30:14:009] SYSTEM MESSAGE  >>recv EVENTType = 9!v
+00057 [2018-08-16 15:30:14:018] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00058 [2018-08-16 15:30:14:030] SYSTEM MESSAGE  >>recv EVENTType = 10!n_EVENT!
+00059 [2018-08-16 15:30:14:037] SYSTEM MESSAGE  >>recv EVENTType = 11!n_EVENT!
+00060 [2018-08-16 15:30:14:042] SYSTEM MESSAGE  >>recv EVENTType = 13!n_EVENT!
+00061 [2018-08-16 15:30:14:045] SYSTEM MESSAGE  >>CYKCmdProcThread  ID1907356752
+00062 [2018-08-16 15:30:14:049] SYSTEM MESSAGE  >>CMQTTPubProcThread  ID1898968144
+00063 [2018-08-16 15:30:14:053] SYSTEM MESSAGE  >>CMQTTSubProcThread  ID1890579536
+00064 [2018-08-16 15:30:14:056] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.144
+00065 [2018-08-16 15:30:14:060] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.144
+00066 [2018-08-16 15:30:14:064] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 30  ==<<h
+00067 [2018-08-16 15:30:14:067] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00068 [2018-08-16 15:31:00:962] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00069 [2018-08-16 15:32:00:958] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00070 [2018-08-16 15:32:04:824] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:1/169
+00071 [2018-08-16 15:32:04:827] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:2/169X~/!<6\
+F+a8j#}+4g-58*j`:mG3)=dyCAkj,Tj{D	^pi4)9b_knO|1$o$Wc][^18|E0T!\
+vG-mGqB:)aG/#zWc*[DH4
+8:\	Xwul10(m!a4KS:.F|eZI[;2E?K*cT8!L5n%{HK({;H,^?FtSb_^b:27zYFHU)u6!%hv6YOb9bor!7B<,43d~(b;v
+00072 [2018-08-16 15:32:04:829] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:3/169VNW3G.F|=4%hdqllrS}%xIvMUaFyvt6B-va/WBHIk
+00073 [2018-08-16 15:32:04:933] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:4/169VNW3G.F|=4%hdqllrS}%xIvMUaFyvt6B-va/WBHIk
+00074 [2018-08-16 15:32:04:935] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:5/169,/ZTf^T#_E
+00075 [2018-08-16 15:32:04:937] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:6/169,/ZTf^T#_E
+00076 [2018-08-16 15:32:04:939] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:7/169,/ZTf^T#_E
+00077 [2018-08-16 15:32:04:941] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:8/169,/ZTf^T#_E
+00078 [2018-08-16 15:32:05:046] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:9/169m}n~%zkBgqJ48E!H[mjwBQ) 9
+0Mk'U:,VjU(J:sr\*&\">)dpaeL8UkwC+L){%USBW{ta@ oH; /S-EmHr8Ep/^S}N**uB]-$L:\B-N0~DkkzH0Y7}j=q33	<Ma#^74IUr]4gpY#8#6Tq5BqI'1Vc1 VL F(bCiFqHv9oJ{(b;v
+00079 [2018-08-16 15:32:05:051] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:10/169}n~%zkBgqJ48E!H[mjwBQ) 9
+0Mk'U:,VjU(J:sr\*&\">)dpaeL8UkwC+L){%USBW{ta@ oH; /S-EmHr8Ep/^S}N**uB]-$L:\B-N0~DkkzH0Y7}j=q33	<Ma#^74IUr]4gpY#8#6Tq5BqI'1Vc1 VL F(bCiFqHv9oJ{(b;v
+00080 [2018-08-16 15:32:05:054] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:11/169}n~%zkBgqJ48E!H[mjwBQ) 9
+0Mk'U:,VjU(J:sr\*&\">)dpaeL8UkwC+L){%USBW{ta@ oH; /S-EmHr8Ep/^S}N**uB]-$L:\B-N0~DkkzH0Y7}j=q33	<Ma#^74IUr]4gpY#8#6Tq5BqI'1Vc1 VL F(bCiFqHv9oJ{(b;v
+00081 [2018-08-16 15:32:05:058] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:12/169}n~%zkBgqJ48E!H[mjwBQ) 9
+0Mk'U:,VjU(J:sr\*&\">)dpaeL8UkwC+L){%USBW{ta@ oH; /S-EmHr8Ep/^S}N**uB]-$L:\B-N0~DkkzH0Y7}j=q33	<Ma#^74IUr]4gpY#8#6Tq5BqI'1Vc1 VL F(bCiFqHv9oJ{(b;v
+00082 [2018-08-16 15:32:05:064] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:13/169}n~%zkBgqJ48E!H[mjwBQ) 9
+0Mk'U:,VjU(J:sr\*&\">)dpaeL8UkwC+L){%USBW{ta@ oH; /S-EmHr8Ep/^S}N**uB]-$L:\B-N0~DkkzH0Y7}j=q33	<Ma#^74IUr]4gpY#8#6Tq5BqI'1Vc1 VL F(bCiFqHv9oJ{(b;v
+00083 [2018-08-16 15:32:05:175] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:14/169}n~%zkBgqJ48E!H[mjwBQ) 9
+0Mk'U:,VjU(J:sr\*&\">)dpaeL8UkwC+L){%USBW{ta@ oH; /S-EmHr8Ep/^S}N**uB]-$L:\B-N0~DkkzH0Y7}j=q33	<Ma#^74IUr]4gpY#8#6Tq5BqI'1Vc1 VL F(bCiFqHv9oJ{(b;v
+00084 [2018-08-16 15:32:05:182] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:15/169}n~%zkBgqJ48E!H[mjwBQ) 9
+0Mk'U:,VjU(J:sr\*&\">)dpaeL8UkwC+L){%USBW{ta@ oH; /S-EmHr8Ep/^S}N**uB]-$L:\B-N0~DkkzH0Y7}j=q33	<Ma#^74IUr]4gpY#8#6Tq5BqI'1Vc1 VL F(bCiFqHv9oJ{(b;v
+00085 [2018-08-16 15:32:05:186] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:16/169}n~%zkBgqJ48E!H[mjwBQ) 9
+0Mk'U:,VjU(J:sr\*&\">)dpaeL8UkwC+L){%USBW{ta@ oH; /S-EmHr8Ep/^S}N**uB]-$L:\B-N0~DkkzH0Y7}j=q33	<Ma#^74IUr]4gpY#8#6Tq5BqI'1Vc1 VL F(bCiFqHv9oJ{(b;v
+00086 [2018-08-16 15:32:05:191] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:17/169Nq#cGa>,DD^^R&&Q4#'JY!^p7^q<NG`8z]W8"|A}\8^w!5"Fd$nOY	8}CmC3k?#se2stx,gpF\[?%GhL<Ar;yxJ7?=\mVrTgem=}xDV$Gy=;s9%"Mc[$[eIKT|m^
+^rG]33p_Np
+s}"*~^O ;Id'o0"tbxn!Ng(b;v
+00087 [2018-08-16 15:32:05:195] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:18/169Nq#cGa>,DD^^R&&Q4#'JY!^p7^q<NG`8z]W8"|A}\8^w!5"Fd$nOY	8}CmC3k?#se2stx,gpF\[?%GhL<Ar;yxJ7?=\mVrTgem=}xDV$Gy=;s9%"Mc[$[eIKT|m^
+^rG]33p_Np
+s}"*~^O ;Id'o0"tbxn!Ng(b;v
+00088 [2018-08-16 15:32:05:199] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:19/169Nq#cGa>,DD^^R&&Q4#'JY!^p7^q<NG`8z]W8"|A}\8^w!5"Fd$nOY	8}CmC3k?#se2stx,gpF\[?%GhL<Ar;yxJ7?=\mVrTgem=}xDV$Gy=;s9%"Mc[$[eIKT|m^
+^rG]33p_Np
+s}"*~^O ;Id'o0"tbxn!Ng(b;v
+00089 [2018-08-16 15:32:05:305] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:20/169Nq#cGa>,DD^^R&&Q4#'JY!^p7^q<NG`8z]W8"|A}\8^w!5"Fd$nOY	8}CmC3k?#se2stx,gpF\[?%GhL<Ar;yxJ7?=\mVrTgem=}xDV$Gy=;s9%"Mc[$[eIKT|m^
+^rG]33p_Np
+s}"*~^O ;Id'o0"tbxn!Ng(b;v
+00090 [2018-08-16 15:32:05:310] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:21/169Nq#cGa>,DD^^R&&Q4#'JY!^p7^q<NG`8z]W8"|A}\8^w!5"Fd$nOY	8}CmC3k?#se2stx,gpF\[?%GhL<Ar;yxJ7?=\mVrTgem=}xDV$Gy=;s9%"Mc[$[eIKT|m^
+^rG]33p_Np
+s}"*~^O ;Id'o0"tbxn!Ng(b;v
+00091 [2018-08-16 15:32:05:314] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:22/169Nq#cGa>,DD^^R&&Q4#'JY!^p7^q<NG`8z]W8"|A}\8^w!5"Fd$nOY	8}CmC3k?#se2stx,gpF\[?%GhL<Ar;yxJ7?=\mVrTgem=}xDV$Gy=;s9%"Mc[$[eIKT|m^
+^rG]33p_Np
+s}"*~^O ;Id'o0"tbxn!Ng(b;v
+00092 [2018-08-16 15:32:05:318] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:23/169Nq#cGa>,DD^^R&&Q4#'JY!^p7^q<NG`8z]W8"|A}\8^w!5"Fd$nOY	8}CmC3k?#se2stx,gpF\[?%GhL<Ar;yxJ7?=\mVrTgem=}xDV$Gy=;s9%"Mc[$[eIKT|m^
+^rG]33p_Np
+s}"*~^O ;Id'o0"tbxn!Ng(b;v
+00093 [2018-08-16 15:32:05:323] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:24/169Nq#cGa>,DD^^R&&Q4#'JY!^p7^q<NG`8z]W8"|A}\8^w!5"Fd$nOY	8}CmC3k?#se2stx,gpF\[?%GhL<Ar;yxJ7?=\mVrTgem=}xDV$Gy=;s9%"Mc[$[eIKT|m^
+^rG]33p_Np
+s}"*~^O ;Id'o0"tbxn!Ng(b;v
+00094 [2018-08-16 15:32:05:432] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:25/169Nq#cGa>,DD^^R&&Q4#'JY!^p7^q<NG`8z]W8"|A}\8^w!5"Fd$nOY	8}CmC3k?#se2stx,gpF\[?%GhL<Ar;yxJ7?=\mVrTgem=}xDV$Gy=;s9%"Mc[$[eIKT|m^
+^rG]33p_Np
+s}"*~^O ;Id'o0"tbxn!Ng(b;v
+00095 [2018-08-16 15:32:05:441] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:26/169Nq#cGa>,DD^^R&&Q4#'JY!^p7^q<NG`8z]W8"|A}\8^w!5"Fd$nOY	8}CmC3k?#se2stx,gpF\[?%GhL<Ar;yxJ7?=\mVrTgem=}xDV$Gy=;s9%"Mc[$[eIKT|m^
+^rG]33p_Np
+s}"*~^O ;Id'o0"tbxn!Ng(b;v
+00096 [2018-08-16 15:32:05:445] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:27/169Nq#cGa>,DD^^R&&Q4#'JY!^p7^q<NG`8z]W8"|A}\8^w!5"Fd$nOY	8}CmC3k?#se2stx,gpF\[?%GhL<Ar;yxJ7?=\mVrTgem=}xDV$Gy=;s9%"Mc[$[eIKT|m^
+^rG]33p_Np
+s}"*~^O ;Id'o0"tbxn!Ng(b;v
+00097 [2018-08-16 15:32:05:449] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:28/169Nq#cGa>,DD^^R&&Q4#'JY!^p7^q<NG`8z]W8"|A}\8^w!5"Fd$nOY	8}CmC3k?#se2stx,gpF\[?%GhL<Ar;yxJ7?=\mVrTgem=}xDV$Gy=;s9%"Mc[$[eIKT|m^
+^rG]33p_Np
+s}"*~^O ;Id'o0"tbxn!Ng(b;v
+00098 [2018-08-16 15:32:05:454] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:29/169Nq#cGa>,DD^^R&&Q4#'JY!^p7^q<NG`8z]W8"|A}\8^w!5"Fd$nOY	8}CmC3k?#se2stx,gpF\[?%GhL<Ar;yxJ7?=\mVrTgem=}xDV$Gy=;s9%"Mc[$[eIKT|m^
+^rG]33p_Np
+s}"*~^O ;Id'o0"tbxn!Ng(b;v
+00099 [2018-08-16 15:32:05:458] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:30/169Nq#cGa>,DD^^R&&Q4#'JY!^p7^q<NG`8z]W8"|A}\8^w!5"Fd$nOY	8}CmC3k?#se2stx,gpF\[?%GhL<Ar;yxJ7?=\mVrTgem=}xDV$Gy=;s9%"Mc[$[eIKT|m^
+^rG]33p_Np
+s}"*~^O ;Id'o0"tbxn!Ng(b;v
+00100 [2018-08-16 15:32:05:570] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:31/169Nq#cGa>,DD^^R&&Q4#'JY!^p7^q<NG`8z]W8"|A}\8^w!5"Fd$nOY	8}CmC3k?#se2stx,gpF\[?%GhL<Ar;yxJ7?=\mVrTgem=}xDV$Gy=;s9%"Mc[$[eIKT|m^
+^rG]33p_Np
+s}"*~^O ;Id'o0"tbxn!Ng(b;v
+00101 [2018-08-16 15:32:05:572] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:32/169f
+00102 [2018-08-16 15:32:05:574] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:33/169f
+00103 [2018-08-16 15:32:05:576] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:34/169f
+00104 [2018-08-16 15:32:05:579] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:35/169f
+00105 [2018-08-16 15:32:05:687] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:36/169f
+00106 [2018-08-16 15:32:05:689] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:37/169f
+00107 [2018-08-16 15:32:05:695] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:38/169f
+00108 [2018-08-16 15:32:05:698] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:39/169f
+00109 [2018-08-16 15:32:05:701] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:40/169f
+00110 [2018-08-16 15:32:05:703] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:41/169f
+00111 [2018-08-16 15:32:05:806] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:42/169f
+00112 [2018-08-16 15:32:05:808] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:43/169f
+00113 [2018-08-16 15:32:05:809] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:44/169f
+00114 [2018-08-16 15:32:05:812] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:45/169f
+00115 [2018-08-16 15:32:05:815] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:46/169f
+00116 [2018-08-16 15:32:05:923] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:47/169f
+00117 [2018-08-16 15:32:05:924] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:48/169f
+00118 [2018-08-16 15:32:05:931] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:49/169f
+00119 [2018-08-16 15:32:05:933] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:50/169f
+00120 [2018-08-16 15:32:05:935] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:51/169f
+00121 [2018-08-16 15:32:05:937] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:52/169f
+00122 [2018-08-16 15:32:06:041] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:53/169f
+00123 [2018-08-16 15:32:06:043] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:54/169f
+00124 [2018-08-16 15:32:06:046] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:55/169f
+00125 [2018-08-16 15:32:06:048] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:56/169f
+00126 [2018-08-16 15:32:06:051] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:57/169f
+00127 [2018-08-16 15:32:06:160] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:58/169f
+00128 [2018-08-16 15:32:06:163] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:59/169f
+00129 [2018-08-16 15:32:06:165] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:60/169f
+00130 [2018-08-16 15:32:06:167] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:61/169f
+00131 [2018-08-16 15:32:06:170] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:62/169f
+00132 [2018-08-16 15:32:06:278] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:63/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00133 [2018-08-16 15:32:06:287] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:64/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00134 [2018-08-16 15:32:06:290] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:65/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00135 [2018-08-16 15:32:06:294] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:66/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00136 [2018-08-16 15:32:06:298] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:67/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00137 [2018-08-16 15:32:06:302] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:68/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00138 [2018-08-16 15:32:06:411] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:69/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00139 [2018-08-16 15:32:06:418] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:70/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00140 [2018-08-16 15:32:06:423] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:71/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00141 [2018-08-16 15:32:06:426] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:72/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00142 [2018-08-16 15:32:06:430] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:73/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00143 [2018-08-16 15:32:06:433] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:74/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00144 [2018-08-16 15:32:06:538] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:75/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00145 [2018-08-16 15:32:06:542] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:76/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00146 [2018-08-16 15:32:06:545] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:77/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00147 [2018-08-16 15:32:06:549] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:78/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00148 [2018-08-16 15:32:06:553] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:79/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00149 [2018-08-16 15:32:06:663] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:80/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00150 [2018-08-16 15:32:06:670] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:81/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00151 [2018-08-16 15:32:06:673] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:82/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00152 [2018-08-16 15:32:06:676] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:83/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00153 [2018-08-16 15:32:06:681] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:84/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00154 [2018-08-16 15:32:06:685] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:85/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00155 [2018-08-16 15:32:06:794] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:86/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00156 [2018-08-16 15:32:06:798] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:87/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00157 [2018-08-16 15:32:06:802] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:88/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00158 [2018-08-16 15:32:06:805] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:89/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00159 [2018-08-16 15:32:06:809] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:90/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00160 [2018-08-16 15:32:06:917] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:91/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00161 [2018-08-16 15:32:06:924] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:92/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00162 [2018-08-16 15:32:06:928] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:93/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00163 [2018-08-16 15:32:06:932] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:94/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00164 [2018-08-16 15:32:06:936] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:95/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00165 [2018-08-16 15:32:06:939] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:96/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00166 [2018-08-16 15:32:07:048] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:97/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00167 [2018-08-16 15:32:07:055] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:98/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00168 [2018-08-16 15:32:07:059] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:99/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00169 [2018-08-16 15:32:07:064] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:100/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00170 [2018-08-16 15:32:07:067] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:101/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00171 [2018-08-16 15:32:07:071] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:102/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00172 [2018-08-16 15:32:07:180] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:103/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00173 [2018-08-16 15:32:07:188] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:104/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00174 [2018-08-16 15:32:07:192] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:105/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00175 [2018-08-16 15:32:07:195] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:106/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00176 [2018-08-16 15:32:07:199] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:107/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00177 [2018-08-16 15:32:07:203] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:108/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00178 [2018-08-16 15:32:07:312] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:109/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00179 [2018-08-16 15:32:07:320] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:110/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00180 [2018-08-16 15:32:07:324] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:111/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00181 [2018-08-16 15:32:07:327] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:112/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00182 [2018-08-16 15:32:07:331] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:113/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00183 [2018-08-16 15:32:07:335] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:114/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00184 [2018-08-16 15:32:07:444] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:115/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00185 [2018-08-16 15:32:07:451] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:116/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00186 [2018-08-16 15:32:07:455] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:117/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00187 [2018-08-16 15:32:07:459] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:118/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00188 [2018-08-16 15:32:07:463] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:119/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00189 [2018-08-16 15:32:07:467] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:120/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00190 [2018-08-16 15:32:07:576] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:121/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00191 [2018-08-16 15:32:07:579] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:122/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00192 [2018-08-16 15:32:07:584] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:123/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00193 [2018-08-16 15:32:07:587] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:124/169Pn_.1McjZ/Uj(-rpk1EReH[En(PW@\,Coi/	RE.qYT!N\[7~euo_!Yl(gH3p9^nn49x?sJ(C)xz7Wbx^/JAr$r:SNrHl*x^I/
+00194 [2018-08-16 15:32:07:591] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:125/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00195 [2018-08-16 15:32:07:703] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:126/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00196 [2018-08-16 15:32:07:709] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:127/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00197 [2018-08-16 15:32:07:713] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:128/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00198 [2018-08-16 15:32:07:718] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:129/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00199 [2018-08-16 15:32:07:722] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:130/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00200 [2018-08-16 15:32:07:727] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:131/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00201 [2018-08-16 15:32:07:832] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:132/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00202 [2018-08-16 15:32:07:836] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:133/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00203 [2018-08-16 15:32:07:841] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:134/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00204 [2018-08-16 15:32:07:845] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:135/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00205 [2018-08-16 15:32:07:849] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:136/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00206 [2018-08-16 15:32:07:959] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:137/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00207 [2018-08-16 15:32:07:967] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:138/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00208 [2018-08-16 15:32:07:971] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:139/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00209 [2018-08-16 15:32:07:975] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:140/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00210 [2018-08-16 15:32:07:980] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:141/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00211 [2018-08-16 15:32:07:985] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:142/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00212 [2018-08-16 15:32:08:094] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:143/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00213 [2018-08-16 15:32:08:104] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:144/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00214 [2018-08-16 15:32:08:107] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:145/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00215 [2018-08-16 15:32:08:112] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:146/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00216 [2018-08-16 15:32:08:116] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:147/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00217 [2018-08-16 15:32:08:121] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:148/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00218 [2018-08-16 15:32:08:226] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:149/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00219 [2018-08-16 15:32:08:231] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:150/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00220 [2018-08-16 15:32:08:234] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:151/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00221 [2018-08-16 15:32:08:238] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:152/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00222 [2018-08-16 15:32:08:243] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:153/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00223 [2018-08-16 15:32:08:354] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:154/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00224 [2018-08-16 15:32:08:360] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:155/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00225 [2018-08-16 15:32:08:364] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:156/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00226 [2018-08-16 15:32:08:368] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:157/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00227 [2018-08-16 15:32:08:372] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:158/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00228 [2018-08-16 15:32:08:377] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:159/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00229 [2018-08-16 15:32:08:487] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:160/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00230 [2018-08-16 15:32:08:494] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:161/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00231 [2018-08-16 15:32:08:498] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:162/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00232 [2018-08-16 15:32:08:502] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:163/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00233 [2018-08-16 15:32:08:507] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:164/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00234 [2018-08-16 15:32:08:511] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:165/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00235 [2018-08-16 15:32:08:624] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:166/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00236 [2018-08-16 15:32:08:631] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:167/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00237 [2018-08-16 15:32:08:639] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:168/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v
+00238 [2018-08-16 15:32:08:646] SYSTEM MESSAGE  >>program file recved, wCurrFrameXH:169/169v^IzeI/"]I[Ds>Ec'IyiH!k/E:Att;fkII$2$}eH!}	HO>Bz8#=JzA:E:Att;fkIg~^L"=&;gHO>M$H%}AH#nH't7mH7!RIWVg'=Czi'I'=FQK&HOz/1GHS{HGHn&tJ+H/#]MzJW~Nu>C$}qI%=Fzitttv^IzeI/"]I%H#})'H#=I	(b;v

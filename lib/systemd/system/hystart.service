@@ -1,0 +1,16 @@
+[Unit]
+Description=HY START
+
+[Service]
+User=root
+Group=root
+
+Environment=QTDIR=/usr/appsoft/qt-arm 
+Environment=SYSTEMHOME=/usr/appsoft/hysys 
+Environment=PATH=$PATH:$QTDIR/bin:$SYSTEMHOME/bin:/bin:/usr/bin:/sbin:/etc/ppp/peers
+
+ExecStart=/usr/appsoft/hysys/bin/ccmserver -d
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

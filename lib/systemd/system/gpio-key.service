@@ -1,0 +1,11 @@
+[Unit]
+Description=GPIO KEY
+
+[Service]
+User=root
+Group=root
+ExecStart=/usr/bin/gpiokey-process
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

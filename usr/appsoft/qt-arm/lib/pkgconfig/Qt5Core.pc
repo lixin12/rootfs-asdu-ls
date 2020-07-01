@@ -1,0 +1,15 @@
+prefix=/usr/appsoft/qt-arm
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+host_bins=${prefix}/bin
+qt_config=minimal-config small-config medium-config large-config full-config no-pkg-config evdev linuxfb c++11 c++14 accessibility shared qpa reduce_exports clock-gettime clock-monotonic posix_fallocate mremap getaddrinfo ipv6ifname getifaddrs inotify eventfd threadsafe-cloexec poll_poll png doubleconversion freetype harfbuzz zlib iconv dbus rpath concurrent audio-backend release
+
+Name: Qt5 Core
+Description: Qt Core module
+Version: 5.7.1
+Libs: -L${libdir} -lQt5Core 
+Libs.private: -lpthread -L/usr/appsoft/qt-arm/lib -lqtpcre -lm -ldl -lrt  
+Cflags: -I${includedir}/QtCore -I${includedir}
+

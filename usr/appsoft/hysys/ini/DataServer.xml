@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DataServerCfg>
+    <DataServer>
+        <Server HostName="iZ28yh5w843Z"/>
+        <Server HostName="120.27.116.12"/>
+        <Server HostName="192.168.1.200"/>
+        <Server HostName="192.168.1.188"/>
+        <Server HostName="localhost"/>
+    </DataServer>
+</DataServerCfg>

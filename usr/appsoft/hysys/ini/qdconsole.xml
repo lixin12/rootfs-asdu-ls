@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sysconfig module="">
+	<parentnode name="配置">
+	
+        <childnode name="全局">
+            <key name="控制台高度">
+                <value type="int">-1</value>
+            </key>
+        </childnode>
+		
+		<childnode name="标志区">
+			<key name="区域宽度">
+                <value type="int">80</value>
+            </key>
+			<key name="是否显示">
+                <value type="int">1</value>
+            </key>
+			<key name="提示符">
+                <value type="QString">DBMS-QS600控制台管理工具</value>
+            </key>
+            <key name="图片路径">
+                <value type="QString"></value>
+            </key>
+			<key name="文字">
+                <value type="QString">DBMS-QS600</value>
+            </key>
+        </childnode>
+		
+		<childnode name="时间区">
+			<key name="是否显示">
+				<value type="int">1</value>
+			</key>
+			<key name="区域宽度">
+				<value type="int">80</value>
+			</key>
+			<key name="提示符">
+				<value type="QString">当前时间</value>
+			</key>
+			<key name="是否显示日期">
+				<value type="int">1</value>
+			</key>
+			<key name="日期格式">
+				<value type="QString">yyyy-MM-dd</value>
+			</key>
+			<key name="是否显示星期">
+				<value type="int">1</value>
+			</key>
+			<key name="星期格式">
+				<value type="QString">中文</value>
+			</key>
+			<key name="是否显示时间">
+				<value type="int">1</value>
+			</key>
+			<key name="时间格式">
+				<value type="QString">hh:mm:ss</value>
+			</key>
+		</childnode>
+		
+		<childnode name="菜单区">
+			<key name="是否显示">
+				<value type="int">1</value>
+			</key>
+			<key name="区域宽度">
+				<value type="int">150</value>
+			</key>
+			<key name="提示符">
+				<value type="QString">菜单区</value>
+			</key>
+		</childnode>
+		
+		<childnode name="工具菜单项">
+			<key name="工具菜单项配置">
+				<!-- 格式：菜单项名称;菜单项类型;图标路径;提示符;模块路径名;命令参数;异常退出时重加载;以后台服务方式运行;启动时加载 -->
+				<value type="QString">工具;1;common_tool.png;工具;;;1;0;0;</value>
+			</key>
+		</childnode>
+		
+		<childnode name="工具列表">
+			<key name="配置一">
+				<value type="QString">数据库编辑器;0;dbedit.png;数据库编辑器;../bin_d/dbedit_d;;0;0;0;</value>
+			</key>
+			<key name="配置二">
+				<value type="QString">数据库维护工具;0;dbtool.png;数据库维护工具;../bin_d/dbtool_d;;0;0;0;</value>
+			</key>
+			<key name="配置三">
+				<value type="QString">拓扑设置工具;0;topset.png;拓扑设置工具;../bin_d/topset_d;;0;0;0;</value>
+			</key>
+		</childnode>
+
+		<childnode name="服务菜单项">
+			<key name="服务菜单项配置">
+				<!-- 格式：菜单项名称;菜单项类型;图标路径;提示符;模块路径名;命令参数;异常退出时重加载;以后台服务方式运行;启动时加载 -->
+				<value type="QString">服务;1;server.png;服务;;;1;0;0;</value>
+			</key>
+		</childnode>
+		
+		<childnode name="服务列表">
+			<key name="配置一">
+				<value type="QString">事项服务;0;eventsvr.png;事项服务;../bin_d/eventsvr_d;-d;1;0;1;</value>
+			</key>
+			<key name="配置二">
+				<value type="QString">配网管理系统服务;0;dboper.png;配网管理系统服务;../bin_d/dmssvr_d;;1;0;1;</value>
+			</key>
+		</childnode>
+
+		<childnode name="界面菜单项">
+			<key name="界面菜单项配置">
+				<!-- 格式：菜单项名称;菜单项类型;图标路径;提示符;模块路径名;命令参数;异常退出时重加载;以后台服务方式运行;启动时加载 -->
+				<value type="QString">界面;1;guitool.png;界面;;;1;0;0;</value>
+			</key>
+		</childnode>
+		
+		<childnode name="界面列表">
+			<key name="配置一">
+				<value type="QString">前置监视器;0;ccmmonitor.png;前置监视器;../bin_d/ccmmonitor_d;;0;0;0;</value>
+			</key>
+			<key name="配置二">
+				<value type="QString">电子值班系统;0;eleattend.png;电子值班系统;../bin_d/eleattend_d;;0;0;0;</value>
+			</key>
+			<key name="配置三">
+				<value type="QString">故障分析;0;faultanalysis.png;故障分析;../bin_d/faultanalysis_d;;0;0;0;</value>
+			</key>
+		</childnode>
+		
+		<childnode name="自启动模块">
+			<key name="模块启动时间间隔">
+				<value type="QString">10</value>
+			</key>
+			<key name="配置一">
+				<value type="QString">事项服务;0;eventsvr.png;事项服务;../bin_d/eventsvr_d;-d;1;0;1;</value>
+			</key>
+			<key name="配置二">
+				<value type="QString">配网管理系统服务;0;dboper.png;配网管理系统服务;../bin_d/dmssvr_d;;1;0;1;</value>
+			</key>
+		</childnode>
+		
+		<childnode name="设置区">
+			<key name="是否显示">
+				<value type="int">1</value>
+			</key>
+			<key name="区域宽度">
+				<value type="int">100</value>
+			</key>
+			<key name="提示符">
+				<value type="QString">设置区</value>
+			</key>
+		</childnode>
+		
+		<childnode name="伸缩控制区">
+			<key name="是否显示">
+				<value type="int">1</value>
+			</key>
+			<key name="区域宽度">
+				<value type="int">25</value>
+			</key>
+			<key name="提示符">
+				<value type="QString">伸缩控制区</value>
+			</key>
+		</childnode>
+		
+		        
+    </parentnode>
+</sysconfig>

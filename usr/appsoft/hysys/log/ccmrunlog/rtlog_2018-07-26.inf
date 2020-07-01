@@ -1,0 +1,567 @@
+00566
+00001 [2018-07-26 10:15:12:510] SYSTEM MESSAGE  >>init protocol tab error
+00002 [2018-07-26 10:15:12:512] SYSTEM MESSAGE  >>init channel tab error
+00003 [2018-07-26 10:15:12:514] SYSTEM MESSAGE  >>init terminal tab error
+00004 [2018-07-26 10:15:12:516] SYSTEM MESSAGE  >>init ccmyc tab error
+00005 [2018-07-26 10:15:12:518] SYSTEM MESSAGE  >>init ccmym tab error
+00006 [2018-07-26 10:15:12:520] SYSTEM MESSAGE  >>init ccmyx tab error
+00007 [2018-07-26 10:15:12:521] SYSTEM MESSAGE  >>init ccmyk tab error
+00008 [2018-07-26 10:15:12:523] SYSTEM MESSAGE  >>init ccmzfyc tab error
+00009 [2018-07-26 10:15:12:525] SYSTEM MESSAGE  >>init ccmzfyx tab error
+00010 [2018-07-26 10:15:12:527] SYSTEM MESSAGE  >>init ccmzfyk tab error
+00011 [2018-07-26 10:15:12:528] SYSTEM MESSAGE  >>init ccmzfym tab error
+00012 [2018-07-26 10:15:12:531] SYSTEM MESSAGE  >>cComMgrThread start
+00013 [2018-07-26 10:15:12:532] SYSTEM MESSAGE  >>cComProcThread start
+00014 [2018-07-26 10:15:12:534] SYSTEM MESSAGE  >>cDataReturnThread start
+00015 [2018-07-26 10:15:12:536] SYSTEM MESSAGE  >>CTimerWorkThread start
+00016 [2018-07-26 10:15:12:537] SYSTEM MESSAGE  >>cSaveFileThread start
+00017 [2018-07-26 10:15:12:539] SYSTEM MESSAGE  >>cTransFileThread start
+00018 [2018-07-26 10:15:12:654] SYSTEM MESSAGE  >>CMQTTPubProcThread  ID1898968144
+00019 [2018-07-26 10:15:12:656] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00020 [2018-07-26 10:15:12:668] SYSTEM MESSAGE  >>CMQTTSubProcThread  ID1890579536
+00021 [2018-07-26 10:15:12:679] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00022 [2018-07-26 10:15:12:684] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00023 [2018-07-26 10:15:12:688] SYSTEM MESSAGE  >>recv EVENTType = 8!v
+00024 [2018-07-26 10:15:12:692] SYSTEM MESSAGE  >>recv EVENTType = 9!v
+00025 [2018-07-26 10:15:12:695] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00026 [2018-07-26 10:15:12:699] SYSTEM MESSAGE  >>recv EVENTType = 11!n_EVENT!
+00027 [2018-07-26 10:15:12:701] SYSTEM MESSAGE  >>CYKCmdProcThread  ID1907356752
+00028 [2018-07-26 10:15:12:703] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 15  ==<<`
+00029 [2018-07-26 10:15:12:705] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00030 [2018-07-26 10:16:00:537] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00031 [2018-07-26 10:17:00:571] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00032 [2018-07-26 10:18:00:600] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00033 [2018-07-26 10:18:00:601] SYSTEM MESSAGE  >>recv EVENTType = 8!!n_EVENT!
+00034 [2018-07-26 10:19:00:533] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00035 [2018-07-26 10:20:00:579] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00036 [2018-07-26 10:20:00:584] SYSTEM MESSAGE  >>recv EVENTType = 9!!n_EVENT!
+00037 [2018-07-26 10:20:00:589] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00038 [2018-07-26 10:20:00:594] SYSTEM MESSAGE  >>recv EVENTType = 10!n_EVENT!
+00039 [2018-07-26 10:20:00:598] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 20  ==<<`
+00040 [2018-07-26 10:20:00:600] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00041 [2018-07-26 10:21:00:634] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00042 [2018-07-26 10:21:00:637] SYSTEM MESSAGE  >>recv EVENTType = 8!!n_EVENT!
+00043 [2018-07-26 10:22:00:553] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00044 [2018-07-26 10:23:00:626] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00045 [2018-07-26 10:24:00:598] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00046 [2018-07-26 10:24:00:600] SYSTEM MESSAGE  >>recv EVENTType = 8!!n_EVENT!
+00047 [2018-07-26 10:25:00:634] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00048 [2018-07-26 10:25:00:636] SYSTEM MESSAGE  >>recv EVENTType = 9!!n_EVENT!
+00049 [2018-07-26 10:25:00:637] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00050 [2018-07-26 10:25:00:645] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 25  ==<<`
+00051 [2018-07-26 10:25:00:650] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00052 [2018-07-26 10:26:00:577] SYSTEM MESSAGE  >>recv EVENTType = 7!in_EVENT!
+00053 [2018-07-26 10:27:00:645] SYSTEM MESSAGE  >>recv EVENTType = 7!in_EVENT!
+00054 [2018-07-26 10:27:00:648] SYSTEM MESSAGE  >>recv EVENTType = 8!in_EVENT!
+00055 [2018-07-26 10:28:00:654] SYSTEM MESSAGE  >>recv EVENTType = 7!in_EVENT!
+00056 [2018-07-26 10:29:00:632] SYSTEM MESSAGE  >>recv EVENTType = 7!in_EVENT!
+00057 [2018-07-26 10:30:00:582] SYSTEM MESSAGE  >>recv EVENTType = 7!in_EVENT!
+00058 [2018-07-26 10:30:00:584] SYSTEM MESSAGE  >>recv EVENTType = 8!in_EVENT!
+00059 [2018-07-26 10:30:00:585] SYSTEM MESSAGE  >>recv EVENTType = 9!in_EVENT!
+00060 [2018-07-26 10:30:00:595] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00061 [2018-07-26 10:30:00:600] SYSTEM MESSAGE  >>recv EVENTType = 10!n_EVENT!
+00062 [2018-07-26 10:30:00:606] SYSTEM MESSAGE  >>recv EVENTType = 11!n_EVENT!
+00063 [2018-07-26 10:30:00:612] SYSTEM MESSAGE  >>recv EVENTType = 13!n_EVENT!
+00064 [2018-07-26 10:30:00:615] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 30  ==<<`
+00065 [2018-07-26 10:30:00:621] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00066 [2018-07-26 10:31:00:575] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00067 [2018-07-26 10:32:00:612] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00068 [2018-07-26 10:33:00:662] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00069 [2018-07-26 10:33:00:664] SYSTEM MESSAGE  >>recv EVENTType = 8!!n_EVENT!
+00070 [2018-07-26 10:34:00:657] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00071 [2018-07-26 10:35:00:634] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00072 [2018-07-26 10:35:00:643] SYSTEM MESSAGE  >>recv EVENTType = 9!!n_EVENT!
+00073 [2018-07-26 10:35:00:649] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00074 [2018-07-26 10:35:00:653] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 35  ==<<`
+00075 [2018-07-26 10:35:00:655] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00076 [2018-07-26 10:36:00:662] SYSTEM MESSAGE  >>recv EVENTType = 7!in_EVENT!
+00077 [2018-07-26 10:36:00:664] SYSTEM MESSAGE  >>recv EVENTType = 8!in_EVENT!
+00078 [2018-07-26 10:36:44:400] SYSTEM MESSAGE  >>init protocol tab error
+00079 [2018-07-26 10:36:44:402] SYSTEM MESSAGE  >>init channel tab error
+00080 [2018-07-26 10:36:44:404] SYSTEM MESSAGE  >>init terminal tab error
+00081 [2018-07-26 10:36:44:406] SYSTEM MESSAGE  >>init ccmyc tab error
+00082 [2018-07-26 10:36:44:409] SYSTEM MESSAGE  >>init ccmym tab error
+00083 [2018-07-26 10:36:44:411] SYSTEM MESSAGE  >>init ccmyx tab error
+00084 [2018-07-26 10:36:44:413] SYSTEM MESSAGE  >>init ccmyk tab error
+00085 [2018-07-26 10:36:44:415] SYSTEM MESSAGE  >>init ccmzfyc tab error
+00086 [2018-07-26 10:36:44:417] SYSTEM MESSAGE  >>init ccmzfyx tab error
+00087 [2018-07-26 10:36:44:419] SYSTEM MESSAGE  >>init ccmzfyk tab error
+00088 [2018-07-26 10:36:44:421] SYSTEM MESSAGE  >>init ccmzfym tab error
+00089 [2018-07-26 10:36:44:423] SYSTEM MESSAGE  >>cComMgrThread start
+00090 [2018-07-26 10:36:44:425] SYSTEM MESSAGE  >>cComProcThread start
+00091 [2018-07-26 10:36:44:427] SYSTEM MESSAGE  >>cDataReturnThread start
+00092 [2018-07-26 10:36:44:430] SYSTEM MESSAGE  >>CTimerWorkThread start
+00093 [2018-07-26 10:36:44:432] SYSTEM MESSAGE  >>cSaveFileThread start
+00094 [2018-07-26 10:36:44:434] SYSTEM MESSAGE  >>cTransFileThread start
+00095 [2018-07-26 10:36:44:546] SYSTEM MESSAGE  >>CYKCmdProcThread  ID1907356752
+00096 [2018-07-26 10:36:44:549] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00097 [2018-07-26 10:36:44:550] SYSTEM MESSAGE  >>recv EVENTType = 8!v
+00098 [2018-07-26 10:36:44:552] SYSTEM MESSAGE  >>CMQTTPubProcThread  ID1898968144
+00099 [2018-07-26 10:36:44:554] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00100 [2018-07-26 10:36:44:556] SYSTEM MESSAGE  >>CMQTTSubProcThread  ID1890579536
+00101 [2018-07-26 10:36:44:558] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00102 [2018-07-26 10:37:00:436] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00103 [2018-07-26 10:38:01:037] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00104 [2018-07-26 10:39:01:000] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00105 [2018-07-26 10:39:01:002] SYSTEM MESSAGE  >>recv EVENTType = 8!v
+00106 [2018-07-26 10:40:00:963] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00107 [2018-07-26 10:40:00:967] SYSTEM MESSAGE  >>recv EVENTType = 9!v
+00108 [2018-07-26 10:40:00:976] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00109 [2018-07-26 10:40:00:991] SYSTEM MESSAGE  >>recv EVENTType = 10!n_EVENT!
+00110 [2018-07-26 10:40:01:001] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 40  ==<</s#3vL&:v/s/s/s/s/s/s
+00111 [2018-07-26 10:40:01:010] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00112 [2018-07-26 10:41:00:981] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00113 [2018-07-26 10:42:00:999] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00114 [2018-07-26 10:42:01:004] SYSTEM MESSAGE  >>recv EVENTType = 8!!n_EVENT!
+00115 [2018-07-26 10:43:01:052] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00116 [2018-07-26 10:44:00:980] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00117 [2018-07-26 10:45:01:041] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00118 [2018-07-26 10:45:01:047] SYSTEM MESSAGE  >>recv EVENTType = 8!!n_EVENT!
+00119 [2018-07-26 10:45:01:050] SYSTEM MESSAGE  >>recv EVENTType = 9!!n_EVENT!
+00120 [2018-07-26 10:45:01:056] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00121 [2018-07-26 10:45:01:060] SYSTEM MESSAGE  >>recv EVENTType = 11!n_EVENT!
+00122 [2018-07-26 10:45:01:062] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 45  ==<</s#3vL&:v/s/s/s/s/s/s
+00123 [2018-07-26 10:45:01:064] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00124 [2018-07-26 10:46:01:014] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00125 [2018-07-26 10:47:01:061] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00126 [2018-07-26 10:48:01:055] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00127 [2018-07-26 10:48:01:059] SYSTEM MESSAGE  >>recv EVENTType = 8!!n_EVENT!
+00128 [2018-07-26 10:49:01:011] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00129 [2018-07-26 10:50:01:074] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00130 [2018-07-26 10:50:01:079] SYSTEM MESSAGE  >>recv EVENTType = 9!!n_EVENT!
+00131 [2018-07-26 10:50:01:084] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00132 [2018-07-26 10:50:01:089] SYSTEM MESSAGE  >>recv EVENTType = 10!n_EVENT!
+00133 [2018-07-26 10:50:01:092] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 50  ==<</s#3vL&:v/s/s/s/s/s/s
+00134 [2018-07-26 10:50:01:094] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00135 [2018-07-26 10:51:01:052] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00136 [2018-07-26 10:51:01:055] SYSTEM MESSAGE  >>recv EVENTType = 8!!n_EVENT!
+00137 [2018-07-26 10:52:01:090] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00138 [2018-07-26 10:53:01:047] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00139 [2018-07-26 10:54:01:096] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00140 [2018-07-26 10:54:01:098] SYSTEM MESSAGE  >>recv EVENTType = 8!!n_EVENT!
+00141 [2018-07-26 10:55:01:064] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00142 [2018-07-26 10:55:01:069] SYSTEM MESSAGE  >>recv EVENTType = 9!!n_EVENT!
+00143 [2018-07-26 10:55:01:077] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00144 [2018-07-26 10:55:01:082] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 55  ==<</s#3vL&:v/s/s/s/s/s/s
+00145 [2018-07-26 10:55:01:085] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00146 [2018-07-26 10:56:00:038] SYSTEM MESSAGE  >>recv EVENTType = 7!in_EVENT!
+00147 [2018-07-26 10:57:00:066] SYSTEM MESSAGE  >>recv EVENTType = 7!in_EVENT!
+00148 [2018-07-26 10:57:00:067] SYSTEM MESSAGE  >>recv EVENTType = 8!in_EVENT!
+00149 [2018-07-26 10:58:00:102] SYSTEM MESSAGE  >>recv EVENTType = 7!in_EVENT!
+00150 [2018-07-26 10:59:00:052] SYSTEM MESSAGE  >>recv EVENTType = 7!in_EVENT!
+00151 [2018-07-26 11:00:00:107] SYSTEM MESSAGE  >>recv EVENTType = 7!in_EVENT!
+00152 [2018-07-26 11:00:00:108] SYSTEM MESSAGE  >>recv EVENTType = 8!in_EVENT!
+00153 [2018-07-26 11:00:00:110] SYSTEM MESSAGE  >>recv EVENTType = 9!in_EVENT!
+00154 [2018-07-26 11:00:00:111] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00155 [2018-07-26 11:00:00:122] SYSTEM MESSAGE  >>recv EVENTType = 10!n_EVENT!
+00156 [2018-07-26 11:00:00:124] SYSTEM MESSAGE  >>recv EVENTType = 11!n_EVENT!
+00157 [2018-07-26 11:00:00:127] SYSTEM MESSAGE  >>recv EVENTType = 13!n_EVENT!
+00158 [2018-07-26 11:00:00:129] SYSTEM MESSAGE  >>recv EVENTType = 14!n_EVENT!
+00159 [2018-07-26 11:00:00:131] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 0  ==<<9/s#3vL&:v/s/s/s/s/s/s
+00160 [2018-07-26 11:00:00:133] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00161 [2018-07-26 11:01:00:066] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00162 [2018-07-26 11:02:00:116] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00163 [2018-07-26 11:03:00:084] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00164 [2018-07-26 11:03:00:086] SYSTEM MESSAGE  >>recv EVENTType = 8!!n_EVENT!
+00165 [2018-07-26 11:04:00:043] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00166 [2018-07-26 11:05:00:115] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00167 [2018-07-26 11:05:00:120] SYSTEM MESSAGE  >>recv EVENTType = 9!!n_EVENT!
+00168 [2018-07-26 11:05:00:126] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00169 [2018-07-26 11:05:00:130] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 5  ==<<9/s#3vL&:v/s/s/s/s/s/s
+00170 [2018-07-26 11:05:00:136] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00171 [2018-07-26 11:06:00:104] SYSTEM MESSAGE  >>recv EVENTType = 7!in_EVENT!
+00172 [2018-07-26 11:06:00:106] SYSTEM MESSAGE  >>recv EVENTType = 8!in_EVENT!
+00173 [2018-07-26 11:07:00:109] SYSTEM MESSAGE  >>recv EVENTType = 7!in_EVENT!
+00174 [2018-07-26 11:08:00:075] SYSTEM MESSAGE  >>recv EVENTType = 7!in_EVENT!
+00175 [2018-07-26 11:09:00:121] SYSTEM MESSAGE  >>recv EVENTType = 7!in_EVENT!
+00176 [2018-07-26 11:09:00:122] SYSTEM MESSAGE  >>recv EVENTType = 8!in_EVENT!
+00177 [2018-07-26 11:10:00:080] SYSTEM MESSAGE  >>recv EVENTType = 7!in_EVENT!
+00178 [2018-07-26 11:10:00:084] SYSTEM MESSAGE  >>recv EVENTType = 9!in_EVENT!
+00179 [2018-07-26 11:10:00:091] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00180 [2018-07-26 11:10:00:097] SYSTEM MESSAGE  >>recv EVENTType = 10!n_EVENT!
+00181 [2018-07-26 11:10:00:103] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 10  ==<</s#3vL&:v/s/s/s/s/s/s
+00182 [2018-07-26 11:10:00:107] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00183 [2018-07-26 11:11:00:057] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00184 [2018-07-26 11:12:00:117] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00185 [2018-07-26 11:12:00:120] SYSTEM MESSAGE  >>recv EVENTType = 8!!n_EVENT!
+00186 [2018-07-26 11:13:00:094] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00187 [2018-07-26 11:14:00:126] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00188 [2018-07-26 11:15:00:152] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00189 [2018-07-26 11:15:00:157] SYSTEM MESSAGE  >>recv EVENTType = 8!!n_EVENT!
+00190 [2018-07-26 11:15:00:160] SYSTEM MESSAGE  >>recv EVENTType = 9!!n_EVENT!
+00191 [2018-07-26 11:15:00:167] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00192 [2018-07-26 11:15:00:170] SYSTEM MESSAGE  >>recv EVENTType = 11!n_EVENT!
+00193 [2018-07-26 11:15:00:172] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 15  ==<</s#3vL&:v/s/s/s/s/s/s
+00194 [2018-07-26 11:15:00:174] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00195 [2018-07-26 11:16:00:139] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+                                                                                 00196 [2018-07-26 10:38:52:845] SYSTEM MESSAGE  >>init protocol tab error
+00197 [2018-07-26 10:38:52:847] SYSTEM MESSAGE  >>init channel tab error
+00198 [2018-07-26 10:38:52:849] SYSTEM MESSAGE  >>init terminal tab error
+00199 [2018-07-26 10:38:52:851] SYSTEM MESSAGE  >>init ccmyc tab error
+00200 [2018-07-26 10:38:52:853] SYSTEM MESSAGE  >>init ccmym tab error
+00201 [2018-07-26 10:38:52:855] SYSTEM MESSAGE  >>init ccmyx tab error
+00202 [2018-07-26 10:38:52:857] SYSTEM MESSAGE  >>init ccmyk tab error
+00203 [2018-07-26 10:38:52:859] SYSTEM MESSAGE  >>init ccmzfyc tab error
+00204 [2018-07-26 10:38:52:862] SYSTEM MESSAGE  >>init ccmzfyx tab error
+00205 [2018-07-26 10:38:52:864] SYSTEM MESSAGE  >>init ccmzfyk tab error
+00206 [2018-07-26 10:38:52:866] SYSTEM MESSAGE  >>init ccmzfym tab error
+00207 [2018-07-26 10:38:52:868] SYSTEM MESSAGE  >>cComMgrThread start
+00208 [2018-07-26 10:38:52:870] SYSTEM MESSAGE  >>cComProcThread start
+00209 [2018-07-26 10:38:52:872] SYSTEM MESSAGE  >>cDataReturnThread start
+00210 [2018-07-26 10:38:52:874] SYSTEM MESSAGE  >>CTimerWorkThread start
+00211 [2018-07-26 10:38:52:876] SYSTEM MESSAGE  >>cSaveFileThread start
+00212 [2018-07-26 10:38:52:878] SYSTEM MESSAGE  >>cTransFileThread start
+00213 [2018-07-26 10:38:52:991] SYSTEM MESSAGE  >>CMQTTSubProcThread  ID1890579536
+00214 [2018-07-26 10:38:52:995] SYSTEM MESSAGE  >>CYKCmdProcThread  ID1907356752
+00215 [2018-07-26 10:38:52:998] SYSTEM MESSAGE  >>CMQTTPubProcThread  ID1898968144
+00216 [2018-07-26 10:38:53:002] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00217 [2018-07-26 10:38:53:006] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00218 [2018-07-26 10:38:53:010] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00219 [2018-07-26 10:39:00:847] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00220 [2018-07-26 10:39:00:858] SYSTEM MESSAGE  >>recv EVENTType = 8!v
+00221 [2018-07-26 10:40:00:901] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00222 [2018-07-26 10:40:00:905] SYSTEM MESSAGE  >>recv EVENTType = 9!v
+00223 [2018-07-26 10:40:00:910] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00224 [2018-07-26 10:40:00:916] SYSTEM MESSAGE  >>recv EVENTType = 10!n_EVENT!
+00225 [2018-07-26 10:40:00:920] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 40  ==<<
+00226 [2018-07-26 10:40:00:922] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00227 [2018-07-26 10:41:00:851] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00228 [2018-07-26 10:42:00:870] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00229 [2018-07-26 10:42:00:873] SYSTEM MESSAGE  >>recv EVENTType = 8!!n_EVENT!
+00230 [2018-07-26 10:43:00:902] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00231 [2018-07-26 10:44:00:938] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00232 [2018-07-26 10:45:00:878] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00233 [2018-07-26 10:45:00:888] SYSTEM MESSAGE  >>recv EVENTType = 8!!n_EVENT!
+00234 [2018-07-26 10:45:00:899] SYSTEM MESSAGE  >>recv EVENTType = 9!!n_EVENT!
+00235 [2018-07-26 10:45:00:908] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00236 [2018-07-26 10:45:00:917] SYSTEM MESSAGE  >>recv EVENTType = 11!n_EVENT!
+00237 [2018-07-26 10:45:00:926] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 45  ==<<
+00238 [2018-07-26 10:45:00:931] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00239 [2018-07-26 10:46:00:859] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00240 [2018-07-26 10:47:00:882] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00241 [2018-07-26 10:48:00:921] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00242 [2018-07-26 10:48:00:922] SYSTEM MESSAGE  >>recv EVENTType = 8!!n_EVENT!
+00243 [2018-07-26 10:49:00:947] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00244 [2018-07-26 10:50:00:872] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00245 [2018-07-26 10:50:00:880] SYSTEM MESSAGE  >>recv EVENTType = 9!!n_EVENT!
+00246 [2018-07-26 10:50:00:891] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00247 [2018-07-26 10:50:00:899] SYSTEM MESSAGE  >>recv EVENTType = 10!n_EVENT!
+00248 [2018-07-26 10:50:00:902] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 50  ==<<
+00249 [2018-07-26 10:50:00:908] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00250 [2018-07-26 10:51:00:934] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00251 [2018-07-26 10:51:00:936] SYSTEM MESSAGE  >>recv EVENTType = 8!!n_EVENT!
+00252 [2018-07-26 10:52:00:873] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+                                                                                                                                                                                                                                            00253 [2018-07-26 10:38:52:681] SYSTEM MESSAGE  >>init protocol tab error
+00254 [2018-07-26 10:38:52:684] SYSTEM MESSAGE  >>init channel tab error
+00255 [2018-07-26 10:38:52:686] SYSTEM MESSAGE  >>init terminal tab error
+00256 [2018-07-26 10:38:52:688] SYSTEM MESSAGE  >>init ccmyc tab error
+00257 [2018-07-26 10:38:52:690] SYSTEM MESSAGE  >>init ccmym tab error
+00258 [2018-07-26 10:38:52:692] SYSTEM MESSAGE  >>init ccmyx tab error
+00259 [2018-07-26 10:38:52:693] SYSTEM MESSAGE  >>init ccmyk tab error
+00260 [2018-07-26 10:38:52:695] SYSTEM MESSAGE  >>init ccmzfyc tab error
+00261 [2018-07-26 10:38:52:697] SYSTEM MESSAGE  >>init ccmzfyx tab error
+00262 [2018-07-26 10:38:52:699] SYSTEM MESSAGE  >>init ccmzfyk tab error
+00263 [2018-07-26 10:38:52:701] SYSTEM MESSAGE  >>init ccmzfym tab error
+00264 [2018-07-26 10:38:52:702] SYSTEM MESSAGE  >>cComMgrThread start
+00265 [2018-07-26 10:38:52:704] SYSTEM MESSAGE  >>cComProcThread start
+00266 [2018-07-26 10:38:52:706] SYSTEM MESSAGE  >>cDataReturnThread start
+00267 [2018-07-26 10:38:52:708] SYSTEM MESSAGE  >>CTimerWorkThread start
+00268 [2018-07-26 10:38:52:709] SYSTEM MESSAGE  >>cSaveFileThread start
+00269 [2018-07-26 10:38:52:711] SYSTEM MESSAGE  >>cTransFileThread start
+00270 [2018-07-26 10:38:52:713] SYSTEM MESSAGE  >>CMQTTPubProcThread  ID1898968144
+00271 [2018-07-26 10:38:52:715] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00272 [2018-07-26 10:38:52:716] SYSTEM MESSAGE  >>CMQTTSubProcThread  ID1890579536
+00273 [2018-07-26 10:38:52:718] SYSTEM MESSAGE  >>CYKCmdProcThread  ID1907356752
+00274 [2018-07-26 10:38:52:827] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00275 [2018-07-26 10:38:52:831] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00276 [2018-07-26 10:39:00:771] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00277 [2018-07-26 10:39:00:773] SYSTEM MESSAGE  >>recv EVENTType = 8!v
+00278 [2018-07-26 10:38:52:788] SYSTEM MESSAGE  >>init protocol tab error
+00279 [2018-07-26 10:38:52:790] SYSTEM MESSAGE  >>init channel tab error
+00280 [2018-07-26 10:38:52:792] SYSTEM MESSAGE  >>init terminal tab error
+00281 [2018-07-26 10:38:52:794] SYSTEM MESSAGE  >>init ccmyc tab error
+00282 [2018-07-26 10:38:52:796] SYSTEM MESSAGE  >>init ccmym tab error
+00283 [2018-07-26 10:38:52:798] SYSTEM MESSAGE  >>init ccmyx tab error
+00284 [2018-07-26 10:38:52:800] SYSTEM MESSAGE  >>init ccmyk tab error
+00285 [2018-07-26 10:38:52:802] SYSTEM MESSAGE  >>init ccmzfyc tab error
+00286 [2018-07-26 10:38:52:804] SYSTEM MESSAGE  >>init ccmzfyx tab error
+00287 [2018-07-26 10:38:52:806] SYSTEM MESSAGE  >>init ccmzfyk tab error
+00288 [2018-07-26 10:38:52:808] SYSTEM MESSAGE  >>init ccmzfym tab error
+00289 [2018-07-26 10:38:52:810] SYSTEM MESSAGE  >>cComMgrThread start
+00290 [2018-07-26 10:38:52:811] SYSTEM MESSAGE  >>cComProcThread start
+00291 [2018-07-26 10:38:52:813] SYSTEM MESSAGE  >>cDataReturnThread start
+00292 [2018-07-26 10:38:52:816] SYSTEM MESSAGE  >>CTimerWorkThread start
+00293 [2018-07-26 10:38:52:817] SYSTEM MESSAGE  >>cSaveFileThread start
+00294 [2018-07-26 10:38:52:819] SYSTEM MESSAGE  >>cTransFileThread start
+00295 [2018-07-26 10:38:52:931] SYSTEM MESSAGE  >>CYKCmdProcThread  ID1907356752
+00296 [2018-07-26 10:38:52:934] SYSTEM MESSAGE  >>CMQTTPubProcThread  ID1898968144
+00297 [2018-07-26 10:38:52:938] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00298 [2018-07-26 10:38:52:942] SYSTEM MESSAGE  >>CMQTTSubProcThread  ID1890579536
+00299 [2018-07-26 10:38:52:946] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00300 [2018-07-26 10:38:52:950] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00301 [2018-07-26 10:39:00:887] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00302 [2018-07-26 10:39:00:891] SYSTEM MESSAGE  >>recv EVENTType = 8!v
+                                                                                                                                                                                                                                                                                                                                                                            00303 [2018-07-26 10:38:52:762] SYSTEM MESSAGE  >>init protocol tab error
+00304 [2018-07-26 10:38:52:764] SYSTEM MESSAGE  >>init channel tab error
+00305 [2018-07-26 10:38:52:767] SYSTEM MESSAGE  >>init terminal tab error
+00306 [2018-07-26 10:38:52:769] SYSTEM MESSAGE  >>init ccmyc tab error
+00307 [2018-07-26 10:38:52:771] SYSTEM MESSAGE  >>init ccmym tab error
+00308 [2018-07-26 10:38:52:773] SYSTEM MESSAGE  >>init ccmyx tab error
+00309 [2018-07-26 10:38:52:775] SYSTEM MESSAGE  >>init ccmyk tab error
+00310 [2018-07-26 10:38:52:777] SYSTEM MESSAGE  >>init ccmzfyc tab error
+00311 [2018-07-26 10:38:52:779] SYSTEM MESSAGE  >>init ccmzfyx tab error
+00312 [2018-07-26 10:38:52:781] SYSTEM MESSAGE  >>init ccmzfyk tab error
+00313 [2018-07-26 10:38:52:784] SYSTEM MESSAGE  >>init ccmzfym tab error
+00314 [2018-07-26 10:38:52:786] SYSTEM MESSAGE  >>cComMgrThread start
+00315 [2018-07-26 10:38:52:788] SYSTEM MESSAGE  >>cComProcThread start
+00316 [2018-07-26 10:38:52:790] SYSTEM MESSAGE  >>cDataReturnThread start
+00317 [2018-07-26 10:38:52:791] SYSTEM MESSAGE  >>CTimerWorkThread start
+00318 [2018-07-26 10:38:52:794] SYSTEM MESSAGE  >>cSaveFileThread start
+00319 [2018-07-26 10:38:52:796] SYSTEM MESSAGE  >>cTransFileThread start
+00320 [2018-07-26 10:38:52:909] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00321 [2018-07-26 10:38:52:913] SYSTEM MESSAGE  >>CYKCmdProcThread  ID1906308176
+00322 [2018-07-26 10:38:52:917] SYSTEM MESSAGE  >>CMQTTPubProcThread  ID1897919568
+00323 [2018-07-26 10:38:52:920] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00324 [2018-07-26 10:38:52:924] SYSTEM MESSAGE  >>CMQTTSubProcThread  ID1889530960
+00325 [2018-07-26 10:38:52:928] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00326 [2018-07-26 10:39:00:772] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00327 [2018-07-26 10:39:00:780] SYSTEM MESSAGE  >>recv EVENTType = 8!v
+00328 [2018-07-26 10:40:00:819] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00329 [2018-07-26 10:40:00:824] SYSTEM MESSAGE  >>recv EVENTType = 9!v
+00330 [2018-07-26 10:40:00:829] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00331 [2018-07-26 10:40:00:834] SYSTEM MESSAGE  >>recv EVENTType = 10!n_EVENT!
+00332 [2018-07-26 10:40:00:837] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 40  ==<<
+00333 [2018-07-26 10:40:00:839] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00334 [2018-07-26 10:41:00:871] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00335 [2018-07-26 10:42:00:796] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00336 [2018-07-26 10:42:00:799] SYSTEM MESSAGE  >>recv EVENTType = 8!!n_EVENT!
+00337 [2018-07-26 10:43:00:822] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+00338 [2018-07-26 10:44:00:861] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     00339 [2018-07-26 10:38:52:831] SYSTEM MESSAGE  >>init protocol tab error
+00340 [2018-07-26 10:38:52:833] SYSTEM MESSAGE  >>init channel tab error
+00341 [2018-07-26 10:38:52:835] SYSTEM MESSAGE  >>init terminal tab error
+00342 [2018-07-26 10:38:52:837] SYSTEM MESSAGE  >>init ccmyc tab error
+00343 [2018-07-26 10:38:52:840] SYSTEM MESSAGE  >>init ccmym tab error
+00344 [2018-07-26 10:38:52:842] SYSTEM MESSAGE  >>init ccmyx tab error
+00345 [2018-07-26 10:38:52:844] SYSTEM MESSAGE  >>init ccmyk tab error
+00346 [2018-07-26 10:38:52:846] SYSTEM MESSAGE  >>init ccmzfyc tab error
+00347 [2018-07-26 10:38:52:848] SYSTEM MESSAGE  >>init ccmzfyx tab error
+00348 [2018-07-26 10:38:52:850] SYSTEM MESSAGE  >>init ccmzfyk tab error
+00349 [2018-07-26 10:38:52:852] SYSTEM MESSAGE  >>init ccmzfym tab error
+00350 [2018-07-26 10:38:52:854] SYSTEM MESSAGE  >>cComMgrThread start
+00351 [2018-07-26 10:38:52:856] SYSTEM MESSAGE  >>cComProcThread start
+00352 [2018-07-26 10:38:52:858] SYSTEM MESSAGE  >>cDataReturnThread start
+00353 [2018-07-26 10:38:52:860] SYSTEM MESSAGE  >>CTimerWorkThread start
+00354 [2018-07-26 10:38:52:862] SYSTEM MESSAGE  >>cSaveFileThread start
+00355 [2018-07-26 10:38:52:865] SYSTEM MESSAGE  >>cTransFileThread start
+00356 [2018-07-26 10:38:52:977] SYSTEM MESSAGE  >>CMQTTPubProcThread  ID1898968144
+00357 [2018-07-26 10:38:52:981] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00358 [2018-07-26 10:38:52:984] SYSTEM MESSAGE  >>CMQTTSubProcThread  ID1890579536
+00359 [2018-07-26 10:38:52:988] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00360 [2018-07-26 10:38:52:992] SYSTEM MESSAGE  >>CYKCmdProcThread  ID1907356752
+00361 [2018-07-26 10:38:52:995] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00362 [2018-07-26 10:39:00:842] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00363 [2018-07-26 10:39:00:845] SYSTEM MESSAGE  >>recv EVENTType = 8!v
+00364 [2018-07-26 10:40:00:871] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00365 [2018-07-26 10:40:00:873] SYSTEM MESSAGE  >>recv EVENTType = 9!v
+00366 [2018-07-26 10:40:00:874] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00367 [2018-07-26 10:40:00:876] SYSTEM MESSAGE  >>recv EVENTType = 10!n_EVENT!
+00368 [2018-07-26 10:40:00:886] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 40  ==<<
+00369 [2018-07-26 10:40:00:893] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00370 [2018-07-26 10:38:52:784] SYSTEM MESSAGE  >>init protocol tab error
+00371 [2018-07-26 10:38:52:786] SYSTEM MESSAGE  >>init channel tab error
+00372 [2018-07-26 10:38:52:788] SYSTEM MESSAGE  >>init terminal tab error
+00373 [2018-07-26 10:38:52:790] SYSTEM MESSAGE  >>init ccmyc tab error
+00374 [2018-07-26 10:38:52:792] SYSTEM MESSAGE  >>init ccmym tab error
+00375 [2018-07-26 10:38:52:794] SYSTEM MESSAGE  >>init ccmyx tab error
+00376 [2018-07-26 10:38:52:796] SYSTEM MESSAGE  >>init ccmyk tab error
+00377 [2018-07-26 10:38:52:798] SYSTEM MESSAGE  >>init ccmzfyc tab error
+00378 [2018-07-26 10:38:52:800] SYSTEM MESSAGE  >>init ccmzfyx tab error
+00379 [2018-07-26 10:38:52:802] SYSTEM MESSAGE  >>init ccmzfyk tab error
+00380 [2018-07-26 10:38:52:803] SYSTEM MESSAGE  >>init ccmzfym tab error
+00381 [2018-07-26 10:38:52:805] SYSTEM MESSAGE  >>cComMgrThread start
+00382 [2018-07-26 10:38:52:807] SYSTEM MESSAGE  >>cComProcThread start
+00383 [2018-07-26 10:38:52:809] SYSTEM MESSAGE  >>cDataReturnThread start
+00384 [2018-07-26 10:38:52:811] SYSTEM MESSAGE  >>CTimerWorkThread start
+00385 [2018-07-26 10:38:52:813] SYSTEM MESSAGE  >>cSaveFileThread start
+00386 [2018-07-26 10:38:52:815] SYSTEM MESSAGE  >>cTransFileThread start
+00387 [2018-07-26 10:38:52:928] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00388 [2018-07-26 10:38:52:931] SYSTEM MESSAGE  >>CYKCmdProcThread  ID1907356752
+00389 [2018-07-26 10:38:52:935] SYSTEM MESSAGE  >>CMQTTPubProcThread  ID1898968144
+00390 [2018-07-26 10:38:52:939] SYSTEM MESSAGE  >>CMQTTSubProcThread  ID1890579536
+00391 [2018-07-26 10:38:52:943] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00392 [2018-07-26 10:38:52:947] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00393 [2018-07-26 10:39:00:892] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00394 [2018-07-26 10:39:00:894] SYSTEM MESSAGE  >>recv EVENTType = 8!v
+00395 [2018-07-26 10:38:52:826] SYSTEM MESSAGE  >>init protocol tab error
+00396 [2018-07-26 10:38:52:829] SYSTEM MESSAGE  >>init channel tab error
+00397 [2018-07-26 10:38:52:831] SYSTEM MESSAGE  >>init terminal tab error
+00398 [2018-07-26 10:38:52:833] SYSTEM MESSAGE  >>init ccmyc tab error
+00399 [2018-07-26 10:38:52:835] SYSTEM MESSAGE  >>init ccmym tab error
+00400 [2018-07-26 10:38:52:837] SYSTEM MESSAGE  >>init ccmyx tab error
+00401 [2018-07-26 10:38:52:839] SYSTEM MESSAGE  >>init ccmyk tab error
+00402 [2018-07-26 10:38:52:841] SYSTEM MESSAGE  >>init ccmzfyc tab error
+00403 [2018-07-26 10:38:52:843] SYSTEM MESSAGE  >>init ccmzfyx tab error
+00404 [2018-07-26 10:38:52:845] SYSTEM MESSAGE  >>init ccmzfyk tab error
+00405 [2018-07-26 10:38:52:847] SYSTEM MESSAGE  >>init ccmzfym tab error
+00406 [2018-07-26 10:38:52:849] SYSTEM MESSAGE  >>cComMgrThread start
+00407 [2018-07-26 10:38:52:850] SYSTEM MESSAGE  >>cComProcThread start
+00408 [2018-07-26 10:38:52:852] SYSTEM MESSAGE  >>cDataReturnThread start
+00409 [2018-07-26 10:38:52:854] SYSTEM MESSAGE  >>CTimerWorkThread start
+00410 [2018-07-26 10:38:52:857] SYSTEM MESSAGE  >>cSaveFileThread start
+00411 [2018-07-26 10:38:52:859] SYSTEM MESSAGE  >>cTransFileThread start
+00412 [2018-07-26 10:38:52:970] SYSTEM MESSAGE  >>CYKCmdProcThread  ID1907356752
+00413 [2018-07-26 10:38:52:972] SYSTEM MESSAGE  >>CMQTTPubProcThread  ID1898968144
+00414 [2018-07-26 10:38:52:973] SYSTEM MESSAGE  >>CMQTTSubProcThread  ID1890579536
+00415 [2018-07-26 10:38:52:975] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00416 [2018-07-26 10:38:52:978] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00417 [2018-07-26 10:38:52:980] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00418 [2018-07-26 10:39:00:917] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00419 [2018-07-26 10:39:00:920] SYSTEM MESSAGE  >>recv EVENTType = 8!v
+00420 [2018-07-26 10:40:01:078] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00421 [2018-07-26 10:40:01:080] SYSTEM MESSAGE  >>recv EVENTType = 9!v
+00422 [2018-07-26 10:40:01:081] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00423 [2018-07-26 10:40:01:091] SYSTEM MESSAGE  >>recv EVENTType = 10!n_EVENT!
+00424 [2018-07-26 10:40:01:095] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 40  ==<<
+00425 [2018-07-26 10:40:01:097] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+                                                                                 00426 [2018-07-26 10:38:52:749] SYSTEM MESSAGE  >>init protocol tab error
+00427 [2018-07-26 10:38:52:753] SYSTEM MESSAGE  >>init channel tab error
+00428 [2018-07-26 10:38:52:754] SYSTEM MESSAGE  >>init terminal tab error
+00429 [2018-07-26 10:38:52:756] SYSTEM MESSAGE  >>init ccmyc tab error
+00430 [2018-07-26 10:38:52:758] SYSTEM MESSAGE  >>init ccmym tab error
+00431 [2018-07-26 10:38:52:760] SYSTEM MESSAGE  >>init ccmyx tab error
+00432 [2018-07-26 10:38:52:762] SYSTEM MESSAGE  >>init ccmyk tab error
+00433 [2018-07-26 10:38:52:764] SYSTEM MESSAGE  >>init ccmzfyc tab error
+00434 [2018-07-26 10:38:52:766] SYSTEM MESSAGE  >>init ccmzfyx tab error
+00435 [2018-07-26 10:38:52:768] SYSTEM MESSAGE  >>init ccmzfyk tab error
+00436 [2018-07-26 10:38:52:770] SYSTEM MESSAGE  >>init ccmzfym tab error
+00437 [2018-07-26 10:38:52:772] SYSTEM MESSAGE  >>cComMgrThread start
+00438 [2018-07-26 10:38:52:774] SYSTEM MESSAGE  >>cComProcThread start
+00439 [2018-07-26 10:38:52:776] SYSTEM MESSAGE  >>cDataReturnThread start
+00440 [2018-07-26 10:38:52:778] SYSTEM MESSAGE  >>CTimerWorkThread start
+00441 [2018-07-26 10:38:52:780] SYSTEM MESSAGE  >>cSaveFileThread start
+00442 [2018-07-26 10:38:52:782] SYSTEM MESSAGE  >>cTransFileThread start
+00443 [2018-07-26 10:38:52:895] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00444 [2018-07-26 10:38:52:898] SYSTEM MESSAGE  >>CYKCmdProcThread  ID1906308176
+00445 [2018-07-26 10:38:52:902] SYSTEM MESSAGE  >>CMQTTPubProcThread  ID1897919568
+00446 [2018-07-26 10:38:52:906] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00447 [2018-07-26 10:38:52:910] SYSTEM MESSAGE  >>CMQTTSubProcThread  ID1889530960
+00448 [2018-07-26 10:38:52:914] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00449 [2018-07-26 10:39:00:852] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00450 [2018-07-26 10:39:00:856] SYSTEM MESSAGE  >>recv EVENTType = 8!v
+00451 [2018-07-26 10:40:00:106] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00452 [2018-07-26 10:40:00:114] SYSTEM MESSAGE  >>recv EVENTType = 9!v
+00453 [2018-07-26 10:40:00:124] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00454 [2018-07-26 10:40:00:133] SYSTEM MESSAGE  >>recv EVENTType = 10!n_EVENT!
+00455 [2018-07-26 10:40:00:137] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 40  ==<<s#)vL/vssssss
+00456 [2018-07-26 10:40:00:141] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00457 [2018-07-26 10:41:00:162] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          00458 [2018-07-26 10:38:52:788] SYSTEM MESSAGE  >>init protocol tab error
+00459 [2018-07-26 10:38:52:791] SYSTEM MESSAGE  >>init channel tab error
+00460 [2018-07-26 10:38:52:793] SYSTEM MESSAGE  >>init terminal tab error
+00461 [2018-07-26 10:38:52:795] SYSTEM MESSAGE  >>init ccmyc tab error
+00462 [2018-07-26 10:38:52:797] SYSTEM MESSAGE  >>init ccmym tab error
+00463 [2018-07-26 10:38:52:798] SYSTEM MESSAGE  >>init ccmyx tab error
+00464 [2018-07-26 10:38:52:801] SYSTEM MESSAGE  >>init ccmyk tab error
+00465 [2018-07-26 10:38:52:803] SYSTEM MESSAGE  >>init ccmzfyc tab error
+00466 [2018-07-26 10:38:52:805] SYSTEM MESSAGE  >>init ccmzfyx tab error
+00467 [2018-07-26 10:38:52:806] SYSTEM MESSAGE  >>init ccmzfyk tab error
+00468 [2018-07-26 10:38:52:808] SYSTEM MESSAGE  >>init ccmzfym tab error
+00469 [2018-07-26 10:38:52:810] SYSTEM MESSAGE  >>cComMgrThread start
+00470 [2018-07-26 10:38:52:812] SYSTEM MESSAGE  >>cComProcThread start
+00471 [2018-07-26 10:38:52:814] SYSTEM MESSAGE  >>cDataReturnThread start
+00472 [2018-07-26 10:38:52:816] SYSTEM MESSAGE  >>CTimerWorkThread start
+00473 [2018-07-26 10:38:52:818] SYSTEM MESSAGE  >>cSaveFileThread start
+00474 [2018-07-26 10:38:52:820] SYSTEM MESSAGE  >>cTransFileThread start
+00475 [2018-07-26 10:38:52:932] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00476 [2018-07-26 10:38:52:935] SYSTEM MESSAGE  >>CYKCmdProcThread  ID1907356752
+00477 [2018-07-26 10:38:52:939] SYSTEM MESSAGE  >>CMQTTPubProcThread  ID1898968144
+00478 [2018-07-26 10:38:52:943] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00479 [2018-07-26 10:38:52:946] SYSTEM MESSAGE  >>CMQTTSubProcThread  ID1890579536
+00480 [2018-07-26 10:38:52:950] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+                                                                                                                                                  00481 [2018-07-26 10:38:52:860] SYSTEM MESSAGE  >>init protocol tab error
+00482 [2018-07-26 10:38:52:863] SYSTEM MESSAGE  >>init channel tab error
+00483 [2018-07-26 10:38:52:866] SYSTEM MESSAGE  >>init terminal tab error
+00484 [2018-07-26 10:38:52:867] SYSTEM MESSAGE  >>init ccmyc tab error
+00485 [2018-07-26 10:38:52:869] SYSTEM MESSAGE  >>init ccmym tab error
+00486 [2018-07-26 10:38:52:871] SYSTEM MESSAGE  >>init ccmyx tab error
+00487 [2018-07-26 10:38:52:873] SYSTEM MESSAGE  >>init ccmyk tab error
+00488 [2018-07-26 10:38:52:875] SYSTEM MESSAGE  >>init ccmzfyc tab error
+00489 [2018-07-26 10:38:52:877] SYSTEM MESSAGE  >>init ccmzfyx tab error
+00490 [2018-07-26 10:38:52:879] SYSTEM MESSAGE  >>init ccmzfyk tab error
+00491 [2018-07-26 10:38:52:881] SYSTEM MESSAGE  >>init ccmzfym tab error
+00492 [2018-07-26 10:38:52:883] SYSTEM MESSAGE  >>cComMgrThread start
+00493 [2018-07-26 10:38:52:885] SYSTEM MESSAGE  >>cComProcThread start
+00494 [2018-07-26 10:38:52:887] SYSTEM MESSAGE  >>cDataReturnThread start
+00495 [2018-07-26 10:38:52:889] SYSTEM MESSAGE  >>CTimerWorkThread start
+00496 [2018-07-26 10:38:52:891] SYSTEM MESSAGE  >>cSaveFileThread start
+00497 [2018-07-26 10:38:52:893] SYSTEM MESSAGE  >>cTransFileThread start
+00498 [2018-07-26 10:38:53:006] SYSTEM MESSAGE  >>CYKCmdProcThread  ID1907356752
+00499 [2018-07-26 10:38:53:009] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00500 [2018-07-26 10:38:53:013] SYSTEM MESSAGE  >>CMQTTPubProcThread  ID1898968144
+00501 [2018-07-26 10:38:53:017] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00502 [2018-07-26 10:38:53:021] SYSTEM MESSAGE  >>CMQTTSubProcThread  ID1890579536
+00503 [2018-07-26 10:38:53:025] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00504 [2018-07-26 10:39:00:863] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00505 [2018-07-26 10:39:00:879] SYSTEM MESSAGE  >>recv EVENTType = 8!v
+00506 [2018-07-26 10:38:52:858] SYSTEM MESSAGE  >>init protocol tab error
+00507 [2018-07-26 10:38:52:860] SYSTEM MESSAGE  >>init channel tab error
+00508 [2018-07-26 10:38:52:862] SYSTEM MESSAGE  >>init terminal tab error
+00509 [2018-07-26 10:38:52:864] SYSTEM MESSAGE  >>init ccmyc tab error
+00510 [2018-07-26 10:38:52:867] SYSTEM MESSAGE  >>init ccmym tab error
+00511 [2018-07-26 10:38:52:869] SYSTEM MESSAGE  >>init ccmyx tab error
+00512 [2018-07-26 10:38:52:870] SYSTEM MESSAGE  >>init ccmyk tab error
+00513 [2018-07-26 10:38:52:872] SYSTEM MESSAGE  >>init ccmzfyc tab error
+00514 [2018-07-26 10:38:52:874] SYSTEM MESSAGE  >>init ccmzfyx tab error
+00515 [2018-07-26 10:38:52:876] SYSTEM MESSAGE  >>init ccmzfyk tab error
+00516 [2018-07-26 10:38:52:878] SYSTEM MESSAGE  >>init ccmzfym tab error
+00517 [2018-07-26 10:38:52:880] SYSTEM MESSAGE  >>cComMgrThread start
+00518 [2018-07-26 10:38:52:882] SYSTEM MESSAGE  >>cComProcThread start
+00519 [2018-07-26 10:38:52:884] SYSTEM MESSAGE  >>cDataReturnThread start
+00520 [2018-07-26 10:38:52:886] SYSTEM MESSAGE  >>CTimerWorkThread start
+00521 [2018-07-26 10:38:52:888] SYSTEM MESSAGE  >>cSaveFileThread start
+00522 [2018-07-26 10:38:52:889] SYSTEM MESSAGE  >>cTransFileThread start
+00523 [2018-07-26 10:38:53:002] SYSTEM MESSAGE  >>CMQTTSubProcThread  ID1890579536
+00524 [2018-07-26 10:38:53:005] SYSTEM MESSAGE  >>CMQTTPubProcThread  ID1898968144
+00525 [2018-07-26 10:38:53:009] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00526 [2018-07-26 10:38:53:013] SYSTEM MESSAGE  >>CYKCmdProcThread  ID1907356752
+00527 [2018-07-26 10:38:53:017] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00528 [2018-07-26 10:38:53:020] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00529 [2018-07-26 10:39:00:904] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00530 [2018-07-26 10:39:00:908] SYSTEM MESSAGE  >>recv EVENTType = 8!v
+00531 [2018-07-26 10:38:52:744] SYSTEM MESSAGE  >>init protocol tab error
+00532 [2018-07-26 10:38:52:747] SYSTEM MESSAGE  >>init channel tab error
+00533 [2018-07-26 10:38:52:750] SYSTEM MESSAGE  >>init terminal tab error
+00534 [2018-07-26 10:38:52:752] SYSTEM MESSAGE  >>init ccmyc tab error
+00535 [2018-07-26 10:38:52:754] SYSTEM MESSAGE  >>init ccmym tab error
+00536 [2018-07-26 10:38:52:756] SYSTEM MESSAGE  >>init ccmyx tab error
+00537 [2018-07-26 10:38:52:758] SYSTEM MESSAGE  >>init ccmyk tab error
+00538 [2018-07-26 10:38:52:761] SYSTEM MESSAGE  >>init ccmzfyc tab error
+00539 [2018-07-26 10:38:52:763] SYSTEM MESSAGE  >>init ccmzfyx tab error
+00540 [2018-07-26 10:38:52:765] SYSTEM MESSAGE  >>init ccmzfyk tab error
+00541 [2018-07-26 10:38:52:767] SYSTEM MESSAGE  >>init ccmzfym tab error
+00542 [2018-07-26 10:38:52:770] SYSTEM MESSAGE  >>cComMgrThread start
+00543 [2018-07-26 10:38:52:772] SYSTEM MESSAGE  >>cComProcThread start
+00544 [2018-07-26 10:38:52:774] SYSTEM MESSAGE  >>cDataReturnThread start
+00545 [2018-07-26 10:38:52:777] SYSTEM MESSAGE  >>CTimerWorkThread start
+00546 [2018-07-26 10:38:52:779] SYSTEM MESSAGE  >>cSaveFileThread start
+00547 [2018-07-26 10:38:52:781] SYSTEM MESSAGE  >>cTransFileThread start
+00548 [2018-07-26 10:38:52:893] SYSTEM MESSAGE  >>CYKCmdProcThread  ID1907356752
+00549 [2018-07-26 10:38:52:896] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00550 [2018-07-26 10:38:52:900] SYSTEM MESSAGE  >>CMQTTPubProcThread  ID1898968144
+00551 [2018-07-26 10:38:52:904] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00552 [2018-07-26 10:38:52:908] SYSTEM MESSAGE  >>CMQTTSubProcThread  ID1890579536
+00553 [2018-07-26 10:38:52:912] SYSTEM MESSAGE  >>MQTTMQTTIP192.168.0.245
+00554 [2018-07-26 10:39:00:751] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00555 [2018-07-26 10:39:00:754] SYSTEM MESSAGE  >>recv EVENTType = 8!v
+00556 [2018-07-27 13:37:34:544] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00557 [2018-07-27 13:38:00:606] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00558 [2018-07-27 13:39:00:534] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00559 [2018-07-27 13:39:00:538] SYSTEM MESSAGE  >>recv EVENTType = 8!v
+00560 [2018-07-27 13:40:00:568] SYSTEM MESSAGE  >>recv EVENTType = 7!v
+00561 [2018-07-27 13:40:00:573] SYSTEM MESSAGE  >>recv EVENTType = 9!v
+00562 [2018-07-27 13:40:00:576] SYSTEM MESSAGE  >>CCCMManager recv 5Min_EVENT!
+00563 [2018-07-27 13:40:00:583] SYSTEM MESSAGE  >>recv EVENTType = 10!n_EVENT!
+00564 [2018-07-27 13:40:00:586] SYSTEM MESSAGE  >>5Minute file start! ==== >>>5Minute = 40  ==<</s#1vLV8v/s/s/s/s/s/s
+00565 [2018-07-27 13:40:00:588] SYSTEM MESSAGE  >>m_n5MBJCount == 0!
+00566 [2018-07-27 13:41:00:556] SYSTEM MESSAGE  >>recv EVENTType = 7!!n_EVENT!

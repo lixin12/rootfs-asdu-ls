@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sysconfig module="">
+    <parentnode name="runParam">
+        <childnode name="runMode">
+            <key name="mainSpare">
+                <value type="int">0</value>
+            </key>
+            <key name="defaultMain">
+                <value type="int">0</value>
+            </key>
+            <key name="otherIP">
+                <value type="QString">192.168.1.100</value>
+            </key>
+        </childnode>
+    </parentnode>
+</sysconfig>

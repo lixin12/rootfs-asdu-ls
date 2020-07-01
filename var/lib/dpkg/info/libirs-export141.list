@@ -1,0 +1,12 @@
+/.
+/lib
+/lib/arm-linux-gnueabihf
+/lib/arm-linux-gnueabihf/libirs-export.so.141.0.4
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libirs-export141
+/usr/share/doc/libirs-export141/changelog.Debian.gz
+/usr/share/doc/libirs-export141/changelog.gz
+/usr/share/doc/libirs-export141/copyright
+/lib/arm-linux-gnueabihf/libirs-export.so.141

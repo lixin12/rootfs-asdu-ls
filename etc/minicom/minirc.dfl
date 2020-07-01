@@ -1,0 +1,5 @@
+# Machine-generated file - use "minicom -s" to change parameters.
+pu port             /dev/ttymxc1
+pu downdir          
+pu rtscts           No
+pu logfname         /var/log/minicom/minicom.log

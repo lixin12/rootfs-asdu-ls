@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sysconfig module="">
+    <parentnode name="MQTT">
+        <childnode name="MQTTNum">
+            <key name="num">
+                <value type="int">1</value>
+            </key>
+        </childnode>
+    </parentnode>
+    <parentnode name="MQTTServer">
+        <childnode name="MQTTServer1">
+            <key name="host">
+                <value type="QString">192.168.0.144</value>
+            </key>
+            <key name="port">
+                <value type="int">1883</value>
+            </key>
+            <key name="user">
+                <value type="QString">hyasdu</value>
+            </key>
+            <key name="passwd">
+                <value type="QString">hyzn@123</value>
+            </key>
+            <key name="IsSendDataName">
+                <value type="int">1</value>
+            </key>
+						<key name="IsSendTermName">
+                <value type="int">1</value>
+            </key>
+            <key name="AllDataSendTimeInterval">
+                <value type="int">5</value>
+            </key>
+						<key name="GeneralFormat">
+                <value type="int">1</value>
+            </key>
+        </childnode>
+    </parentnode>
+</sysconfig>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sysconfig module="">
+    <parentnode name="数据库连接">
+        <childnode name="描述库">
+            <key name="数据库">
+                <value type="QString">QSQLITE</value>
+            </key>
+            <key name="主机名">
+                <value type="QString">localhost</value>
+            </key>
+            <key name="数据库名">
+                <value type="QString">/usr/appsoft/hysys/ini/system.db</value>
+            </key>
+            <key name="用户名">
+                <value type="QString">system.db</value>
+            </key>
+            <key name="密码">
+                <value type="QString">system.db</value>
+            </key>
+            <key name="端口">
+                <value type="int">1521</value>
+            </key>
+        </childnode>
+        <childnode name="历史库">
+            <key name="数据库">
+                <value type="QString">QSQLITE</value>
+            </key>
+            <key name="主机名">
+                <value type="QString">localhost</value>
+            </key>
+            <key name="数据库名">
+                <value type="QString">system.db</value>
+            </key>
+            <key name="用户名">
+                <value type="QString">system.db</value>
+            </key>
+            <key name="密码">
+                <value type="QString">system.db</value>
+            </key>
+            <key name="端口">
+                <value type="int">1521</value>
+            </key>     
+        </childnode>
+    </parentnode>
+</sysconfig>

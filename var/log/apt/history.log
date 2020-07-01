@@ -1,0 +1,10 @@
+
+Start-Date: 2018-08-06  13:47:32
+Commandline: /usr/bin/apt-get install ppp
+Install: ppp:armhf (2.4.7-1+4), libpcap0.8:armhf (1.8.1-3, automatic)
+End-Date: 2018-08-06  13:47:36
+
+Start-Date: 2019-06-18  18:37:36
+Commandline: /usr/bin/apt-get install isc-dhcp-server
+Install: libirs-export141:armhf (1:9.10.3.dfsg.P4-12.3+deb9u4, automatic), libisccc-export140:armhf (1:9.10.3.dfsg.P4-12.3+deb9u4, automatic), policycoreutils:armhf (2.6-3, automatic), selinux-utils:armhf (2.6-3+b3, automatic), libisccfg-export140:armhf (1:9.10.3.dfsg.P4-12.3+deb9u4, automatic), isc-dhcp-server:armhf (4.3.5-3+deb9u1)
+End-Date: 2019-06-18  18:37:40

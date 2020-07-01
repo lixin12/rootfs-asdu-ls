@@ -1,0 +1,12 @@
+/.
+/lib
+/lib/arm-linux-gnueabihf
+/lib/arm-linux-gnueabihf/libisccc-export.so.140.0.4
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libisccc-export140
+/usr/share/doc/libisccc-export140/changelog.Debian.gz
+/usr/share/doc/libisccc-export140/changelog.gz
+/usr/share/doc/libisccc-export140/copyright
+/lib/arm-linux-gnueabihf/libisccc-export.so.140

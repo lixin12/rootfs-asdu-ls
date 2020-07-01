@@ -1,0 +1,16 @@
+[Unit]
+Description=HY FCHECK
+
+[Service]
+User=root
+Group=root
+
+Environment=QTDIR=/usr/appsoft/qt-arm
+Environment=SYSTEMHOME=/usr/appsoft/hysys
+Environment=PATH=$PATH:$QTDIR/bin:$SYSTEMHOME/bin:/bin:/usr/bin:/sbin
+
+ExecStart=/usr/appsoft/hysys/bin/fcheck -d
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,14 @@
+prefix=/usr/appsoft/qt-arm
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+
+Name: Qt5 ScriptTools
+Description: Qt ScriptTools module
+Version: 5.7.1
+Libs: -L${libdir} -lQt5ScriptTools 
+Libs.private: -L/usr/appsoft/qt-arm/lib -lQt5Core -lpthread -lQt5Widgets -L/usr/appsoft/qt-arm/lib -lQt5Gui -L/usr/appsoft/qt-arm/lib -lQt5Script -lQt5Core -lpthread  
+Cflags: -I${includedir}/QtScriptTools -I${includedir}
+Requires: Qt5Core
+

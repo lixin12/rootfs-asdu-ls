@@ -1,0 +1,83 @@
+#!/bin/sh
+
+# This script is intended to be used on heyuan asdu-ls smart device, it performs
+# the following actions:
+#       - export/unpexort GPIO7 used to reset the SX1301 chip
+#
+# Usage examples:
+#       ./reset_lgw.sh stop
+#       ./reset_lgw.sh start
+
+# The reset pin of SX1301 is wired with RPi GPIO7
+# If used on another platform, the GPIO number can be given as parameter.
+
+#if [ -z "$2" ]; then 
+#    IOT_SK_SX1301_RESET_PIN=7
+#else
+#    IOT_SK_SX1301_RESET_PIN=$2
+#fi
+
+PCIE_P3V3_EN_PIN=14
+PCIE_RST=15
+PCIE_WDISABLE=11
+
+
+echo "Accessing mini pcie power and reset pin through GPIO !"
+
+WAIT_GPIO() {
+    sleep 0.1
+}
+
+iot_sk_init() {
+    
+    echo "$PCIE_P3V3_EN_PIN" > /sys/class/gpio/export; WAIT_GPIO
+    echo "$PCIE_RST" 	> /sys/class/gpio/export; WAIT_GPIO
+    echo "$PCIE_WDISABLE" 	> /sys/class/gpio/export; WAIT_GPIO
+
+
+    echo "out" > /sys/class/gpio/gpio$PCIE_RST/direction; WAIT_GPIO
+    echo "out" > /sys/class/gpio/gpio$PCIE_P3V3_EN_PIN/direction; WAIT_GPIO
+    echo "out" > /sys/class/gpio/gpio$PCIE_WDISABLE/direction; WAIT_GPIO
+
+    echo "0" > /sys/class/gpio/gpio$PCIE_RST/value; WAIT_GPIO
+    echo "1" > /sys/class/gpio/gpio$PCIE_P3V3_EN_PIN/value; WAIT_GPIO
+    echo "1" > /sys/class/gpio/gpio$PCIE_RST/value; WAIT_GPIO
+    echo "1" > /sys/class/gpio/gpio$PCIE_WDISABLE/value; WAIT_GPIO
+}
+
+iot_sk_term() {
+    if [ -d /sys/class/gpio/gpio$PCIE_WDISABLE ]
+    then
+	echo "in" > /sys/class/gpio/gpio$PCIE_WDISABLE/direction; WAIT_GPIO
+        echo "$PCIE_WDISABLE" > /sys/class/gpio/unexport; WAIT_GPIO
+    fi
+
+    if [ -d /sys/class/gpio/gpio$PCIE_RST ]
+    then
+	echo "0" > /sys/class/gpio/gpio$PCIE_RST/value; WAIT_GPIO
+	echo "in" > /sys/class/gpio/gpio$PCIE_RST/direction; WAIT_GPIO
+        echo "$PCIE_RST" > /sys/class/gpio/unexport; WAIT_GPIO
+    fi
+
+    if [ -d /sys/class/gpio/gpio$PCIE_P3V3_EN_PIN ]
+    then
+	echo "0" > /sys/class/gpio/gpio$PCIE_P3V3_EN_PIN/value; WAIT_GPIO
+        echo "$PCIE_P3V3_EN_PIN" > /sys/class/gpio/unexport; WAIT_GPIO
+    fi
+}
+
+case "$1" in
+    start)
+    iot_sk_term
+    iot_sk_init
+    ;;
+    stop)
+    iot_sk_term
+    ;;
+    *)
+    echo "Usage: $0 {start|stop} [<gpio number>]"
+    exit 1
+    ;;
+esac
+
+exit 0

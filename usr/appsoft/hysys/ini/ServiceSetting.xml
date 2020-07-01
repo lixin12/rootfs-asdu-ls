@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sysconfig module="">
+    <parentnode name="StartServer">
+        <childnode name="httpservice">
+            <key name="enable">
+                <value type="int">0</value>
+            </key>    	
+        </childnode>
+		<childnode name="startservice">
+            <key name="CLOUD">
+                <value type="bool">false</value>
+            </key>
+			<key name="CLOUD-IP">
+                <value type="QString">47.98.157.244</value>
+            </key>
+			<key name="id">
+                <value type="QString">20181030</value>
+            </key>	
+			<key name="username">
+                <value type="QString">test</value>
+            </key>
+			<key name="password">
+                <value type="QString">test</value>
+            </key>
+        </childnode>
+	</parentnode>
+	<parentnode name="Server-4G">
+		<childnode name="4gcard">
+            <key name="enable">
+                <value type="int">0</value>
+            </key>
+	    <key name="ethernet-name">
+                <value type="QString">ppp0</value>
+            </key>
+			<key name="route">
+                <value type="QString">0.0.0.0</value>
+            </key>
+			<key name="netmask">
+                <value type="QString">0.0.0.0</value>
+            </key>
+			<key name="mobile">
+                <value type="int">1</value>
+            </key>
+			<key name="centerno">
+                <value type="string">1380</value>
+            </key>
+        </childnode>
+    </parentnode>
+	<parentnode name="Chose-Link">
+		<childnode name="baseinfo">
+			<key name="enable">
+				<value type="int">0</value>
+			</key>
+			<key name="ethnumber">
+				<value type="int">2</value>
+			</key>
+                        <key name="handover-time">
+                                <value type="int">60</value>
+                        </key>
+	                <key name="handover-number">
+                                <value type="int">3</value>
+                        </key>
+		</childnode>
+		<childnode name="ethernet-info0">
+			<key name="main-supplement">
+				<value type="QString">main</value>
+			</key>
+			<key name="ethname">
+				<value type="QString">eth0</value>
+			</key>
+			<key name="route">
+				<value type="QString">61.135.169.0</value>
+			</key>
+			<key name="netmask">
+				<value type="QString">255.255.255.0</value>
+			</key>
+			<key name="gateway">
+				<value type="QString">192.168.50.1</value>
+			</key>
+			<key name="destip">
+				<value type="QString">61.135.169.121</value>
+			</key>
+		</childnode>
+		<childnode name="ethernet-info1">
+			 <key name="main-supplement">
+                                <value type="QString">supplement</value>
+                        </key>
+			<key name="ethname">
+				<value type="QString">eth1</value>
+			</key>
+			<key name="route">
+				<value type="QString">8.8.8.0</value>
+			</key>
+			<key name="netmask">
+				<value type="QString">255.255.255.0</value>
+			</key>
+			<key name="gateway">
+				<value type="QString">192.168.1.1</value>
+			</key>
+			<key name="destip">
+				<value type="QString">8.8.8.8</value>
+			</key>
+		</childnode>
+	</parentnode>
+</sysconfig>
